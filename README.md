@@ -264,7 +264,7 @@ La pantalla principal muestra el estado general del ventilador y parámetros res
 También se visualizan alarmas activas y el estado operativo del equipo.
 
 <p align="center">
- <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f7901363-ba5c-4df5-a3e0-a990f403ed24" />
+ <img width="760" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7901363-ba5c-4df5-a3e0-a990f403ed24" />
 </p>
 
 
@@ -284,7 +284,7 @@ En este menú también se ajustan parámetros ventilatorios como:
 La función de pausa inspiratoria puede activarse dentro de este submenú, ya que forma parte de los parámetros respiratorios avanzados de ventilación.
 
 <p align="center">
-  <img width="907" height="438" alt="image" src="https://github.com/user-attachments/assets/04c0d46a-2450-4b3b-b398-70ef695fca91" />
+  <img width="707" height="238" alt="image" src="https://github.com/user-attachments/assets/04c0d46a-2450-4b3b-b398-70ef695fca91" />
 </p>
 
 ### Ajuste de Alarmas
@@ -301,7 +301,7 @@ Entre las alarmas configurables observadas se encuentran:
 Estas alarmas ayudan a proteger al paciente durante la anestesia y permiten detectar fugas, desconexiones o alteraciones ventilatorias.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e350e591-a827-4ee4-a876-7e5650d5e806" height="320"/>
+  <img width="607" height="381" alt="image" src="https://github.com/user-attachments/assets/c362dfdd-a377-44b3-a523-a56f0f3663fa" />
 </p>
 
 ### Ajuste Usuario
@@ -314,7 +314,7 @@ El menú ajuste usuario corresponde a configuraciones generales del usuario y de
 Este menú facilita la personalización de la operación del equipo según las necesidades clínicas.
 
 <p align="center">
-  <img width="865" height="561" alt="image" src="https://github.com/user-attachments/assets/66989075-f0bb-4cf9-9be7-6e1294e21778" />
+  <img width="665" height="361" alt="image" src="https://github.com/user-attachments/assets/66989075-f0bb-4cf9-9be7-6e1294e21778" />
 </p>
 
 ### Mantenimiento
@@ -331,7 +331,7 @@ Entre las opciones observadas se encuentran:
 Estas pruebas permiten asegurar que la máquina funcione correctamente antes de iniciar un procedimiento anestésico.
 
 <p align="center">
-  <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/e143da49-3c41-4d1d-9653-70307ae848a0" />
+  <img width="760" height="1080" alt="image" src="https://github.com/user-attachments/assets/e143da49-3c41-4d1d-9653-70307ae848a0" />
 </p>
 
 
