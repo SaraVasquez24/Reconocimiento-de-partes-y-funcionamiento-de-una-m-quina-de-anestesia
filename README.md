@@ -202,29 +202,49 @@ La sedación suele combinarse con anestesia local o regional para aumentar el co
 Los tipos de anestesia se seleccionan según el procedimiento quirúrgico y las condiciones del paciente. La anestesia general es la más compleja y requiere equipos especializados como la WATO EX-20, mientras que la anestesia local y regional permiten intervenciones más específicas con menor afectación sistémica. La sedación complementa muchos procedimientos al reducir ansiedad y dolor sin inducir necesariamente inconsciencia completa.
 
 
-# 5. Gases utilizados en la máquina
+## Gases utilizados en la máquina
 
-La máquina trabaja principalmente con:
+La máquina de anestesia trabaja principalmente con gases medicinales que permiten mantener la ventilación y oxigenación del paciente mientras se administran agentes anestésicos durante la cirugía, entre los gases más importantes se encuentran el oxígeno (O₂), el óxido nitroso (N₂O) y el aire medicinal. Cada uno cumple una función específica dentro del sistema anestésico y es cuidadosamente controlado por la máquina para garantizar la seguridad del paciente.
 
 | Gas | Función |
 |------|------|
-| Oxígeno (O₂) | Mantener oxigenación |
-| Óxido nitroso (N₂O) | Agente anestésico |
-| Aire medicinal | Ajustar mezcla respiratoria |
+| Oxígeno (O₂) | Mantener una adecuada oxigenación del paciente y evitar hipoxia durante la cirugía. |
+| Óxido nitroso (N₂O) | Actuar como agente anestésico y analgésico complementario para potenciar el efecto de otros anestésicos. |
+| Aire medicinal | Ajustar la mezcla respiratoria y controlar la concentración de oxígeno administrada al paciente. |
 
-Los gases pueden provenir de:
+Además de estos gases, la máquina también trabaja con anestésicos volátiles como sevoflurano, isoflurano y desflurano, estos agentes se almacenan en estado líquido dentro de vaporizadores especializados y posteriormente se convierten en vapor para mezclarse con los gases respiratorios, permitiendo inducir y mantener la anestesia general de forma controlada.
 
-- Red hospitalaria central.
-- Cilindros de respaldo.
+Los gases pueden provenir de la red central hospitalaria o de cilindros de respaldo conectados directamente a la máquina, cuando se utilizan cilindros, especialmente los de oxígeno y óxido nitroso, los gases ingresan inicialmente mediante un sistema de alta presión, un cilindro de oxígeno lleno puede alcanzar aproximadamente 2200 PSI, mientras que uno de óxido nitroso puede encontrarse alrededor de 750 PSI. Debido a estas altas presiones, la máquina incorpora reguladores y válvulas de seguridad que reducen la presión a niveles adecuados antes de que los gases ingresen al sistema respiratorio del paciente.
 
 ## Presiones típicas
-
 - Red hospitalaria: 40–60 PSI.
 - Cilindro de O₂ lleno: aproximadamente 2200 PSI.
+- Cilindro de N₂O lleno: aproximadamente 750 PSI.
 
-Los reguladores reducen la presión alta a niveles seguros para el sistema respiratorio.
+Gracias a estos sistemas de regulación y monitoreo, la máquina de anestesia puede administrar mezclas gaseosas precisas y seguras durante todo el procedimiento quirúrgico.
 
----
+## Sistema de respiración en la máquina de anestesia
+
+El sistema de respiración de una máquina de anestesia es el conjunto de componentes encargados de transportar los gases respiratorios y anestésicos entre la máquina y el paciente, su función principal es suministrar oxígeno y anestésicos inhalados, permitir la ventilación mecánica o espontánea del paciente y eliminar el dióxido de carbono (CO₂) producido durante la respiración.
+
+Este sistema está compuesto por elementos como el circuito respiratorio, mangueras inspiratorias y espiratorias, válvulas unidireccionales, absorbedor de CO₂, bolsa reservorio y conexiones hacia el ventilador mecánico. Durante el procedimiento quirúrgico, los gases circulan continuamente a través de este circuito, permitiendo controlar la respiración del paciente de manera segura y eficiente.
+
+<img width="759" height="625" alt="image" src="https://github.com/user-attachments/assets/e350e591-a827-4ee4-a876-7e5650d5e806" />
+
+En máquinas de anestesia como la WATO EX-20, el sistema respiratorio también incorpora sensores y mecanismos de monitoreo que supervisan parámetros como presión en vía aérea, volumen tidal y flujo respiratorio, ayudando a detectar fugas, obstrucciones o alteraciones ventilatorias durante la cirugía.
+
+#### Esterilización por autoclave 
+
+Debido al contacto directo con el flujo respiratorio del paciente, varias partes del sistema requieren procesos de limpieza y esterilización para prevenir infecciones cruzadas. 
+
+Entre las partes que comúnmente pueden esterilizarse mediante autoclave se encuentran las mangueras respiratorias reutilizables, la bolsa reservorio, algunas válvulas respiratorias, conectores y ciertos componentes desmontables del circuito respiratorio fabricados con materiales resistentes a altas temperaturas y presión.
+
+Sin embargo, no todos los componentes pueden ser autoclavados como los sensores electrónicos, módulos de medición y algunas piezas plásticas sensibles al calor requieren métodos de desinfección diferentes según las recomendaciones del fabricante y el manual de servicio del equipo.
+
+
+
+
+
 
 # 6. Sistemas principales
 
