@@ -264,7 +264,11 @@ La pantalla principal muestra el estado general del ventilador y parámetros res
 También se visualizan alarmas activas y el estado operativo del equipo.
 
 <p align="center">
- <img width="760" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7901363-ba5c-4df5-a3e0-a990f403ed24" />
+  <img src="https://github.com/user-attachments/assets/f7901363-ba5c-4df5-a3e0-a990f403ed24" height="260"/>
+</p>
+
+<p align="center">
+  <em>Figura 1. Pantalla principal del ventilador de la máquina WATO EX-20.</em>
 </p>
 
 
@@ -284,7 +288,11 @@ En este menú también se ajustan parámetros ventilatorios como:
 La función de pausa inspiratoria puede activarse dentro de este submenú, ya que forma parte de los parámetros respiratorios avanzados de ventilación.
 
 <p align="center">
-  <img width="707" height="238" alt="image" src="https://github.com/user-attachments/assets/04c0d46a-2450-4b3b-b398-70ef695fca91" />
+  <img src="https://github.com/user-attachments/assets/04c0d46a-2450-4b3b-b398-70ef695fca91" height="220"/>
+</p>
+
+<p align="center">
+  <em>Figura 2. Submenú “Modo Vent” para selección del modo ventilatorio.</em>
 </p>
 
 ### Ajuste de Alarmas
@@ -301,7 +309,11 @@ Entre las alarmas configurables observadas se encuentran:
 Estas alarmas ayudan a proteger al paciente durante la anestesia y permiten detectar fugas, desconexiones o alteraciones ventilatorias.
 
 <p align="center">
-  <img width="607" height="381" alt="image" src="https://github.com/user-attachments/assets/c362dfdd-a377-44b3-a523-a56f0f3663fa" />
+  <img src="https://github.com/user-attachments/assets/c362dfdd-a377-44b3-a523-a56f0f3663fa" height="240"/>
+</p>
+
+<p align="center">
+  <em>Figura 3. Submenú de ajuste de alarmas respiratorias.</em>
 </p>
 
 ### Ajuste Usuario
@@ -314,7 +326,11 @@ El menú ajuste usuario corresponde a configuraciones generales del usuario y de
 Este menú facilita la personalización de la operación del equipo según las necesidades clínicas.
 
 <p align="center">
-  <img width="665" height="361" alt="image" src="https://github.com/user-attachments/assets/66989075-f0bb-4cf9-9be7-6e1294e21778" />
+  <img src="https://github.com/user-attachments/assets/66989075-f0bb-4cf9-9be7-6e1294e21778" height="230"/>
+</p>
+
+<p align="center">
+  <em>Figura 4. Submenú de configuración de usuario.</em>
 </p>
 
 ### Mantenimiento
@@ -331,9 +347,12 @@ Entre las opciones observadas se encuentran:
 Estas pruebas permiten asegurar que la máquina funcione correctamente antes de iniciar un procedimiento anestésico.
 
 <p align="center">
-  <img width="760" height="1080" alt="image" src="https://github.com/user-attachments/assets/e143da49-3c41-4d1d-9653-70307ae848a0" />
+  <img src="https://github.com/user-attachments/assets/e143da49-3c41-4d1d-9653-70307ae848a0" height="260"/>
 </p>
 
+<p align="center">
+  <em>Figura 5. Submenú de mantenimiento y pruebas del ventilador.</em>
+</p>
 
 
 
