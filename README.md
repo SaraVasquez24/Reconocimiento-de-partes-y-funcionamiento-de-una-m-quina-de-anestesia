@@ -229,7 +229,7 @@ El sistema de respiración de una máquina de anestesia es el conjunto de compon
 
 Este sistema está compuesto por elementos como el circuito respiratorio, mangueras inspiratorias y espiratorias, válvulas unidireccionales, absorbedor de CO₂, bolsa reservorio y conexiones hacia el ventilador mecánico. Durante el procedimiento quirúrgico, los gases circulan continuamente a través de este circuito, permitiendo controlar la respiración del paciente de manera segura y eficiente.
 
-<img width="759" height="625" alt="image" src="https://github.com/user-attachments/assets/e350e591-a827-4ee4-a876-7e5650d5e806" />
+<img width="559" height="425" alt="image" src="https://github.com/user-attachments/assets/e350e591-a827-4ee4-a876-7e5650d5e806" />
 
 En máquinas de anestesia como la WATO EX-20, el sistema respiratorio también incorpora sensores y mecanismos de monitoreo que supervisan parámetros como presión en vía aérea, volumen tidal y flujo respiratorio, ayudando a detectar fugas, obstrucciones o alteraciones ventilatorias durante la cirugía.
 
@@ -238,6 +238,8 @@ En máquinas de anestesia como la WATO EX-20, el sistema respiratorio también i
 Debido al contacto directo con el flujo respiratorio del paciente, varias partes del sistema requieren procesos de limpieza y esterilización para prevenir infecciones cruzadas. 
 
 Entre las partes que comúnmente pueden esterilizarse mediante autoclave se encuentran las mangueras respiratorias reutilizables, la bolsa reservorio, algunas válvulas respiratorias, conectores y ciertos componentes desmontables del circuito respiratorio fabricados con materiales resistentes a altas temperaturas y presión.
+
+<img width="603" height="423" alt="image" src="https://github.com/user-attachments/assets/9eae5a39-093f-4c76-89e1-cc0214400cc0" />
 
 Sin embargo, no todos los componentes pueden ser autoclavados como los sensores electrónicos, módulos de medición y algunas piezas plásticas sensibles al calor requieren métodos de desinfección diferentes según las recomendaciones del fabricante y el manual de servicio del equipo.
 
