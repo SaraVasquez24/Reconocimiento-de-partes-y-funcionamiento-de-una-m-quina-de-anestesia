@@ -1,5 +1,4 @@
-# Máquina de Anestesia WATO EX-20 / EX-35
-
+# Máquina de Anestesia
 ## Introducción
 
 La máquina de anestesia es uno de los equipos biomédicos más importantes dentro del entorno hospitalario, especialmente en salas de cirugía y unidades de procedimientos. Su función principal es administrar de manera controlada gases medicinales y agentes anestésicos al paciente, garantizando simultáneamente ventilación mecánica, oxigenación y monitoreo continuo durante el acto quirúrgico.
@@ -232,8 +231,12 @@ El sistema de respiración de una máquina de anestesia es el conjunto de compon
 Este sistema está compuesto por elementos como el circuito respiratorio, mangueras inspiratorias y espiratorias, válvulas unidireccionales, absorbedor de CO₂, bolsa reservorio y conexiones hacia el ventilador mecánico. Durante el procedimiento quirúrgico, los gases circulan continuamente a través de este circuito, permitiendo controlar la respiración del paciente de manera segura y eficiente.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e350e591-a827-4ee4-a876-7e5650d5e806" height="300" />
-  <img src="https://github.com/user-attachments/assets/f24f13e8-5e5a-4ff1-96c2-cc800db6872a" height="300" />
+  <img src="https://github.com/user-attachments/assets/e350e591-a827-4ee4-a876-7e5650d5e806" height="230" />
+  <img src="https://github.com/user-attachments/assets/f24f13e8-5e5a-4ff1-96c2-cc800db6872a" height="230" />
+</p>
+
+<p align="center">
+  <em>Figura 1. Componentes del sistema respiratorio.</em>
 </p>
 
 En máquinas de anestesia como la WATO EX-20, el sistema respiratorio también incorpora sensores y mecanismos de monitoreo que supervisan parámetros como presión en vía aérea, volumen tidal y flujo respiratorio, ayudando a detectar fugas, obstrucciones o alteraciones ventilatorias durante la cirugía.
@@ -244,7 +247,13 @@ Debido al contacto directo con el flujo respiratorio del paciente, varias partes
 
 Entre las partes que comúnmente pueden esterilizarse mediante autoclave se encuentran las mangueras respiratorias reutilizables, la bolsa reservorio, algunas válvulas respiratorias, conectores y ciertos componentes desmontables del circuito respiratorio fabricados con materiales resistentes a altas temperaturas y presión.
 
-<img width="603" height="423" alt="image" src="https://github.com/user-attachments/assets/9eae5a39-093f-4c76-89e1-cc0214400cc0" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9eae5a39-093f-4c76-89e1-cc0214400cc0" height="240" />
+</p>
+
+<p align="center">
+  <em>Figura 2. Componentes reutilizables del circuito respiratorio que pueden esterilizarse mediante autoclave.</em>
+</p>
 
 Sin embargo, no todos los componentes pueden ser autoclavados como los sensores electrónicos, módulos de medición y algunas piezas plásticas sensibles al calor requieren métodos de desinfección diferentes según las recomendaciones del fabricante y el manual de servicio del equipo.
 
@@ -353,6 +362,158 @@ Estas pruebas permiten asegurar que la máquina funcione correctamente antes de 
 <p align="center">
   <em>Figura 5. Submenú de mantenimiento y pruebas del ventilador.</em>
 </p>
+
+## PARTE B
+
+### Identificación de partes de la máquina de anestesia WATO EX-20
+
+#### a. Vaporizador
+
+El vaporizador es el componente encargado de transformar el anestésico líquido en vapor y mezclarlo de manera controlada con el flujo de gases respiratorios que será administrado al paciente. En la máquina WATO EX-20 normalmente se encuentra ubicado en la parte frontal superior del equipo y puede contener agentes anestésicos como sevoflurano o isoflurano.
+
+Su función principal es garantizar que la concentración del anestésico inhalado sea precisa y estable durante todo el procedimiento quirúrgico, evitando tanto una dosis insuficiente como una sobredosis anestésica.
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c3fe47f-5d94-4fb2-a338-fbb9794b23f4" height="260"/>
+</p>
+
+<p align="center">
+  <em>Figura. Vaporizador de la máquina de anestesia WATO EX-20.</em>
+</p>
+
+
+#### b. Válvula APL
+
+La válvula APL (Adjustable Pressure Limiting) o válvula limitadora de presión ajustable se encuentra dentro del sistema respiratorio y se utiliza principalmente durante la ventilación manual del paciente.
+
+Su función consiste en controlar la presión dentro del circuito respiratorio permitiendo la liberación del exceso de gases hacia el sistema de evacuación. De esta manera evita sobrepresiones pulmonares y posibles lesiones como barotrauma. Cuando la válvula se encuentra más cerrada, aumenta la presión dentro del circuito; cuando se abre, facilita la salida de gases.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/27ac3ba6-3841-42b2-b8a9-71ef0e532068" height="260"/>
+</p>
+
+<p align="center">
+  <em>Figura. Válvula APL de la máquina de anestesia WATO EX-20.</em>
+</p>
+
+#### c. Recipiente absorbente de CO₂
+
+El recipiente absorbente de CO₂, también llamado canister, contiene cal sodada encargada de absorber el dióxido de carbono exhalado por el paciente dentro del circuito respiratorio.
+
+Este componente se ubica generalmente en la parte frontal inferior del sistema respiratorio de la máquina. Su función es evitar la reinhalación de CO₂, permitiendo reutilizar parte de los gases respiratorios y mejorar la eficiencia del sistema anestésico. Cuando la cal sodada se agota, puede observarse un cambio de color que indica la necesidad de reemplazo.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b67653a8-e23b-4fa5-9f43-2d96f2e45f19" height="260"/>
+</p>
+
+<p align="center">
+  <em>Figura. Recipiente absorbente de CO₂ (canister) de la máquina de anestesia WATO EX-20.</em>
+</p>
+
+#### d. Fuelle
+
+El fuelle es una parte fundamental del ventilador mecánico de la máquina de anestesia y se encuentra dentro del módulo ventilatorio. Consiste en una estructura flexible que se expande y contrae para suministrar el volumen de aire o mezcla gaseosa hacia los pulmones del paciente.
+
+Su función principal es generar la ventilación mecánica controlada durante la anestesia general. El movimiento del fuelle permite observar visualmente el ciclo respiratorio del paciente y ayuda a detectar alteraciones como fugas o desconexiones en el circuito respiratorio.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/682cd66c-0391-40e2-946a-6872b8f51b0a" height="260"/>
+</p>
+
+<p align="center">
+  <em>Figura. Fuelle del ventilador mecánico de la máquina de anestesia WATO EX-20.</em>
+</p>
+
+
+### Mensaje “batería en uso”
+
+Si el ventilador de la máquina de anestesia muestra el mensaje “batería en uso” mientras el paciente se encuentra conectado, significa que el equipo dejó de recibir alimentación eléctrica externa y está funcionando mediante su batería interna de respaldo, esta situación puede deberse a una falla en el suministro eléctrico hospitalario, desconexión accidental del cable de alimentación o problemas internos del sistema eléctrico de la máquina.
+
+La primera acción que debe realizarse es mantener la calma y verificar inmediatamente que el paciente continúe siendo ventilado correctamente, posteriormente se debe revisar la conexión del cable de alimentación, el estado de la toma eléctrica y confirmar si existe energía en la sala quirúrgica.
+
+Mientras se soluciona la falla, el equipo puede continuar funcionando temporalmente gracias a la batería interna; sin embargo, el tiempo de autonomía es limitado y depende del estado de carga de la batería y del modelo de la máquina, por esta razón es fundamental actuar rápidamente para restablecer la alimentación eléctrica o preparar métodos alternativos de ventilación.
+
+Si la batería presenta bajo nivel de carga o existe riesgo de apagado del equipo, se debe pasar inmediatamente a ventilación manual utilizando la bolsa reservorio y administrar oxígeno al 100%, además el personal médico debe monitorear continuamente los signos vitales y verificar el correcto funcionamiento de las alarmas y sistemas de seguridad.
+
+Desde el punto de vista biomédico, este tipo de evento demuestra la importancia del mantenimiento preventivo de baterías, pruebas periódicas de autonomía y verificación constante de conexiones eléctricas en equipos de soporte vital.
+
+### Frecuencia de reemplazo del absorbedor de CO₂
+
+El absorbedor de CO₂ debe reemplazarse cuando la cal sodada utilizada en su interior presenta signos de saturación y ya no puede eliminar adecuadamente el dióxido de carbono del aire espirado por el paciente, la frecuencia de reemplazo depende de varios factores, como el tiempo de uso de la máquina, la duración de las cirugías, el flujo de gases frescos y la cantidad de CO₂ producido por el paciente.
+
+Uno de los principales indicadores de agotamiento es el cambio de color de la cal sodada hacia tonos violetas o rosados. Además, pueden observarse elevaciones en los valores de ETCO₂, aumento de temperatura en el circuito respiratorio y disminución de la eficiencia ventilatoria.
+
+En la práctica clínica, el absorbedor debe inspeccionarse antes de cada procedimiento quirúrgico como parte del checklist preoperatorio. Si existen signos de saturación o deterioro, se recomienda reemplazar inmediatamente la cal sodada para evitar complicaciones como reinhalación de CO₂, hipercapnia y alteraciones respiratorias en el paciente.
+
+Desde el punto de vista biomédico, el reemplazo periódico del absorbedor forma parte del mantenimiento preventivo de la máquina de anestesia y es fundamental para garantizar seguridad ventilatoria y correcto funcionamiento del sistema respiratorio.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/70d8841e-a43a-4e21-bc71-a9cc3009e806" height="320"/>
+</p>
+
+<p align="center">
+  <em>Figura. Cambio de color de la cal sodada indicando saturación del absorbedor de CO₂.</em>
+</p>
+
+### Procedimiento para verificar si hay fuga en el cilindro de alta presión
+
+Para verificar si existe una fuga en el sistema de alta presión de la máquina de anestesia, primero se debe conectar correctamente el cilindro de oxígeno y abrir lentamente la válvula principal del tanque. Posteriormente, se observa la presión indicada en el manómetro para confirmar que el cilindro se encuentra cargado y que el sistema recibe presión adecuadamente.
+
+Después de verificar la presión inicial, se debe cerrar nuevamente la válvula del cilindro y observar el comportamiento del manómetro durante algunos minutos. Si la presión permanece estable, significa que no existen fugas importantes dentro del sistema de alta presión. Sin embargo, si la presión disminuye progresivamente, esto indica la presencia de una fuga en alguna conexión, regulador, válvula o incluso en el propio cilindro.
+
+En algunos casos también puede utilizarse una solución jabonosa sobre las conexiones y uniones del sistema. Si aparecen burbujas, esto confirma visualmente la salida de gas y la existencia de una fuga.
+
+Esta prueba es muy importante debido a que el sistema de alta presión constituye la fuente de respaldo de oxígeno en caso de falla de la red hospitalaria. Una fuga no detectada podría provocar pérdida del suministro de oxígeno durante un procedimiento quirúrgico y comprometer la seguridad del paciente.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/23e0b907-594d-4db0-b8ac-104d3826447f" height="300"/>
+</p>
+
+<p align="center">
+  <em>Figura. sistema de alta presión de la máquina de anestesia.</em>
+</p>
+
+## 5. Influencia del sensor de O₂ en la prueba del sistema de control de flujo
+
+Sí, el sensor de oxígeno influye directamente en la prueba del sistema de control de flujo y es uno de los componentes más importantes para garantizar la seguridad de la máquina de anestesia. Su función principal es medir continuamente la concentración de oxígeno presente en la mezcla de gases administrada al paciente.
+
+Durante las pruebas de funcionamiento, el sensor de O₂ permite verificar que los flujómetros, válvulas proporcionales y sistemas anti-hipoxia estén trabajando correctamente. Gracias a este sensor, la máquina puede confirmar que la concentración de oxígeno suministrada sea segura y adecuada para mantener una correcta oxigenación del paciente.
+
+Si el sensor de oxígeno no está instalado, se encuentra descalibrado o presenta fallas, el equipo no puede garantizar la concentración real de O₂ en la mezcla respiratoria. Esto representa un riesgo crítico, ya que podrían administrarse mezclas hipóxicas sin que el sistema genere alarmas adecuadas.
+
+Además, el sensor participa directamente en la activación de alarmas de FiO₂ baja, permitiendo alertar rápidamente al personal médico ante disminuciones peligrosas de oxígeno. Por esta razón, antes de cada procedimiento quirúrgico se realiza la calibración y verificación del sensor de O₂ como parte del checklist preoperatorio.
+
+Desde el punto de vista biomédico, el sensor de oxígeno es considerado un elemento esencial de seguridad clínica, debido a que cualquier error en la medición de FiO₂ puede comprometer directamente la vida del paciente durante anestesia general.
+
+---
+
+### Sistema de presión negativa
+
+El sistema de presión negativa, también conocido como sistema scavenging, es el encargado de evacuar los gases anestésicos residuales fuera del quirófano de manera segura. Su principal función es evitar que los gases sobrantes provenientes del circuito respiratorio se acumulen en el ambiente hospitalario.
+
+Durante los procedimientos anestésicos, una parte de los agentes inhalados administrados al paciente no es metabolizada completamente y puede escapar al entorno quirúrgico a través de la válvula APL o del circuito respiratorio; sin un sistema de evacuación adecuado estos gases podrían ser inhalados constantemente por anestesiólogos, cirujanos y demás personal médico.
+
+La exposición prolongada a anestésicos volátiles puede generar efectos adversos sobre la salud ocupacional, incluyendo cefaleas, fatiga, alteraciones neurológicas y posibles riesgos reproductivos. Por esta razón, el sistema de presión negativa constituye un componente esencial de bioseguridad dentro del quirófano.
+
+Este sistema funciona mediante líneas conectadas a sistemas de vacío o evacuación hospitalaria que extraen continuamente los gases residuales. Además, incorpora mecanismos de regulación para evitar presiones negativas excesivas o alteraciones en la ventilación del paciente.
+
+Desde el enfoque biomédico, es indispensable verificar periódicamente el correcto funcionamiento del sistema scavenging, sus conexiones y su capacidad de evacuación, ya que una falla puede producir contaminación ambiental y comprometer tanto la seguridad del personal médico como la estabilidad del circuito respiratorio.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
