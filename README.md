@@ -146,66 +146,60 @@ La anestesia regional bloquea la sensibilidad y el dolor en una región específ
 - **Anestesia espinal o raquídea:** aplicada en cesáreas y cirugías de miembros inferiores.
 - **Bloqueos nerviosos periféricos:** empleados en cirugías ortopédicas.
 
-## Uso común:
+#### Uso común:
 - Cesáreas.
 - Cirugías de piernas y brazos.
 - Procedimientos urológicos.
 
-## Ventajas:
+#### Ventajas:
 - Menor riesgo respiratorio.
 - Recuperación más rápida.
 - Menor consumo de anestésicos generales.
 
 Aunque la máquina de anestesia WATO EX-20 está diseñada principalmente para anestesia general, durante una anestesia regional puede utilizarse como apoyo para administrar oxígeno suplementario y sedación controlada al paciente, en estos casos el bloqueo nervioso es realizado por el anestesiólogo mediante la inyección del anestésico local cerca de nervios específicos o de la médula espinal, mientras la máquina monitorea la respiración y mantiene disponible soporte ventilatorio en caso de ser necesario durante el procedimiento quirúrgico.
 
-# 3. Anestesia local
+### Anestesia local
 
 La anestesia local adormece únicamente una pequeña zona del cuerpo sin alterar el estado de consciencia del paciente.
 
-## Características principales:
+#### Características principales:
 - El paciente permanece completamente despierto.
 - Se administra mediante inyección o aplicación tópica.
 - Actúa sobre terminaciones nerviosas locales.
 
-## Uso común:
+#### Uso común:
 - Sutura de heridas.
 - Procedimientos odontológicos.
 - Extracción de lunares o biopsias.
 - Pequeñas cirugías ambulatorias.
 
-## Ventajas:
+#### Ventajas:
 - Bajo riesgo sistémico.
 - Recuperación inmediata.
 - Procedimiento sencillo y rápido.
 
----
 
-# 4. Sedación
+### Sedación
 
 La sedación consiste en administrar medicamentos para disminuir la ansiedad, el dolor y el nivel de consciencia del paciente sin llegar necesariamente a una pérdida total de la consciencia.
 
-## Niveles de sedación:
+#### Niveles de sedación:
 - **Sedación mínima:** paciente relajado pero despierto.
 - **Sedación moderada:** paciente somnoliento pero responde a estímulos.
 - **Sedación profunda:** el paciente duerme y responde difícilmente.
 
-## Uso común:
+#### Uso común:
 - Endoscopias.
 - Colonoscopias.
 - Procedimientos diagnósticos.
 - Cirugías menores.
 
-## Importancia clínica:
+#### Importancia clínica:
 La sedación suele combinarse con anestesia local o regional para aumentar el confort del paciente.
-
----
 
 # Conclusión
 
-Los tipos de anestesia se seleccionan según el procedimiento quirúrgico y las condiciones del paciente. La anestesia general es la más compleja y requiere equipos especializados como la **WATO EX-20**, mientras que la anestesia local y regional permiten intervenciones más específicas con menor afectación sistémica. La sedación complementa muchos procedimientos al reducir ansiedad y dolor sin inducir necesariamente inconsciencia completa.
-
----
-
+Los tipos de anestesia se seleccionan según el procedimiento quirúrgico y las condiciones del paciente. La anestesia general es la más compleja y requiere equipos especializados como la WATO EX-20, mientras que la anestesia local y regional permiten intervenciones más específicas con menor afectación sistémica. La sedación complementa muchos procedimientos al reducir ansiedad y dolor sin inducir necesariamente inconsciencia completa.
 
 
 # 5. Gases utilizados en la máquina
