@@ -502,24 +502,127 @@ Este sistema funciona mediante líneas conectadas a sistemas de vacío o evacuac
 
 Desde el enfoque biomédico, es indispensable verificar periódicamente el correcto funcionamiento del sistema scavenging, sus conexiones y su capacidad de evacuación, ya que una falla puede producir contaminación ambiental y comprometer tanto la seguridad del personal médico como la estabilidad del circuito respiratorio
 
+## Documentación de la práctica
+### Procedimiento realizado durante la práctica
+
+Durante la práctica de laboratorio se realizó el reconocimiento general de la máquina de anestesia WATO EX-20, identificando sus principales componentes físicos, menús de configuración y funciones del ventilador; inicialmente se efectuó una inspección visual del equipo para verificar el estado externo de la máquina, las conexiones del sistema respiratorio, el panel de control y los accesorios presentes en el equipo.
+
+Posteriormente se encendió la máquina de anestesia y se observó el proceso de inicio del sistema y la interfaz principal del ventilador. Durante esta etapa se tomaron fotografías de los diferentes menús y configuraciones mostradas en pantalla para documentar la práctica y analizar posteriormente las funciones del equipo.
+
+Luego se ingresó a los diferentes submenús disponibles en la interfaz del ventilador, identificando apartados como:
+- Modo ventilatorio.
+- Ajuste de alarmas.
+- Configuración de usuario.
+- Menú de mantenimiento.
+
+En el submenú de modos ventilatorios se observaron opciones como VCV y PCV, además de parámetros respiratorios configurables como frecuencia respiratoria, relación I:E, presión inspiratoria y PEEP, también se identificó la opción de pausa inspiratoria dentro de la configuración ventilatoria.
+
+Posteriormente se revisó el menú de alarmas, observando configuraciones relacionadas con volumen minuto, presión en vía aérea, frecuencia respiratoria y alarmas de apnea, además se ingresó al menú de mantenimiento donde se visualizaron opciones de chequeo de fugas, calibración de sensores y mantenimiento del sistema.
+
+Durante la práctica también se identificaron físicamente componentes importantes de la máquina como el vaporizador, la válvula APL, el recipiente absorbente de CO₂ y el fuelle del ventilador mecánico, analizando su ubicación y función dentro del sistema anestésico.
+
+Adicionalmente, se revisaron componentes del circuito respiratorio y accesorios reutilizables que pueden esterilizarse mediante autoclave, como las mangueras respiratorias y la bolsa reservorio.
+
+Finalmente, se realizó el registro fotográfico de los diferentes componentes, menús y configuraciones observadas durante la práctica para complementar la documentación técnica y facilitar el análisis posterior del funcionamiento de la máquina de anestesia.
+
+## Preguntas para la discusión
+
+### Pregunta 1: ¿Qué tipos de anestésicos son los más usados en cirugía?
+
+Los anestésicos más utilizados en cirugía pueden clasificarse en anestésicos inhalados, intravenosos y anestésicos locales. Entre los anestésicos inhalados más empleados se encuentran el sevoflurano, isoflurano y desflurano, utilizados principalmente para mantener la anestesia general debido a su rápida acción y control anestésico preciso.
+
+En anestesia intravenosa, medicamentos como propofol, ketamina y midazolam son ampliamente utilizados para inducción anestésica y sedación. El propofol es uno de los agentes más usados debido a su rápido inicio y recuperación.
+
+Por otra parte, anestésicos locales como lidocaína y bupivacaína se emplean en anestesia local y regional para bloquear temporalmente la conducción nerviosa y eliminar el dolor en zonas específicas del cuerpo.
+
+La elección del anestésico depende del tipo de cirugía, estado clínico del paciente, duración del procedimiento y técnica anestésica utilizada.
+
+## Pregunta 2: ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
+
+La máquina de anestesia WATO EX-35 corresponde a una versión más avanzada respecto al modelo WATO EX-20, incorporando mejoras tecnológicas y mayores capacidades de monitoreo y ventilación.
+
+Entre las principales diferencias se encuentran:
+- Mayor cantidad de modos ventilatorios.
+- Mejor capacidad de monitoreo respiratorio y gráfico.
+- Pantalla de mayor resolución y mejor interfaz de usuario.
+- Integración más avanzada de monitoreo anestésico.
+- Mejoras en sistemas de alarmas y seguridad clínica.
+- Mayor capacidad de almacenamiento y configuración de parámetros.
+
+El modelo EX-35 también puede incorporar opciones adicionales de monitoreo de gases anestésicos y funciones ventilatorias más avanzadas para pacientes pediátricos y procedimientos de mayor complejidad. Aunque ambos equipos cumplen la misma función general de administrar anestesia y soporte ventilatorio, el EX-35 ofrece una plataforma más moderna y completa para entornos quirúrgicos especializados.
+
+## Conclusiones
+
+La máquina de anestesia es un equipo biomédico fundamental dentro del área quirúrgica, ya que permite administrar gases anestésicos y mantener la ventilación del paciente de manera segura durante los procedimientos. 
+
+A través de esta práctica fue posible comprender la importancia de sus sistemas neumáticos, electrónicos y de monitoreo en la seguridad clínica, durante el desarrollo de la práctica se identificaron y analizaron componentes principales como vaporizadores, flujómetros, válvula APL, absorbedor de CO₂ y ventilador mecánico, entendiendo su funcionamiento y la relación que tienen con la estabilidad respiratoria y anestésica del paciente.
+
+Finalmente, se evidenció la importancia de las pruebas de funcionamiento, mantenimiento preventivo y sistemas de seguridad de la máquina de anestesia, ya que permiten detectar fallas oportunamente y reducir riesgos que puedan comprometer tanto al paciente como al personal médico durante una cirugía.
+
+## Moraleja
+
+La práctica permitió comprender que en los equipos biomédicos no existen fallas pequeñas, ya que un error mínimo en una conexión, sensor o componente puede comprometer directamente la vida de un paciente. Por esta razón, el mantenimiento preventivo, las pruebas de seguridad y la correcta verificación de los sistemas son fundamentales dentro del trabajo del ingeniero biomédico.
+
+Además, se evidenció que la tecnología médica no solo depende de su funcionamiento electrónico o mecánico, sino también del conocimiento, responsabilidad y capacidad del personal encargado de operarla y mantenerla en condiciones seguras.
+
 ## Referencias bibliográficas
 
-1. International Organization for Standardization. (2022). *ISO 80601-2-13:2022 Medical electrical equipment — Particular requirements for basic safety and essential performance of an anaesthetic workstation*. https://www.iso.org/standard/84020.html
+1. International Organization for Standardization. (2022). *ISO 80601-2-13:2022 Medical electrical equipment — Particular requirements for basic safety and essential performance of an anaesthetic workstation*.  
+https://www.iso.org/standard/84020.html
 
-2. International Electrotechnical Commission. (2020). *IEC 60601-1 Medical electrical equipment – General requirements for basic safety and essential performance*. https://webstore.iec.ch/publication/2612
+2. International Electrotechnical Commission. (2020). *IEC 60601-1 Medical electrical equipment – General requirements for basic safety and essential performance*.  
+https://webstore.iec.ch/publication/2612
 
-3. Ministerio de Salud y Protección Social de Colombia. (2019). *Resolución 3100 de 2019*. https://www.minsalud.gov.co/Normatividad_Nuevo/Resolución%20No.%203100%20de%202019.pdf
+3. Ministerio de Salud y Protección Social de Colombia. (2019). *Resolución 3100 de 2019*.  
+https://www.minsalud.gov.co/Normatividad_Nuevo/Resolución%20No.%203100%20de%202019.pdf
 
-4. INVIMA. *Tecnovigilancia de dispositivos médicos*. https://www.invima.gov.co/tecnovigilancia
+4. INVIMA. *Tecnovigilancia de dispositivos médicos*.  
+https://www.invima.gov.co/tecnovigilancia
 
-5. American Society of Anesthesiologists (ASA). *Anesthesia Machine Checkout Recommendations*. https://www.asahq.org/standards-and-guidelines
+5. American Society of Anesthesiologists (ASA). *Anesthesia Machine Checkout Recommendations*.  
+https://www.asahq.org/standards-and-guidelines
 
-6. Anesthesia Patient Safety Foundation (APSF). *Anesthesia Machine Safety Alerts*. https://www.apsf.org/
+6. Anesthesia Patient Safety Foundation (APSF). *Anesthesia Machine Safety Alerts*.  
+https://www.apsf.org/
 
-7. GE Healthcare. *Carestation Anesthesia Delivery Systems*. https://www.gehealthcare.com/products/anesthesia-delivery
+7. GE Healthcare. *Carestation Anesthesia Delivery Systems*.  
+https://www.gehealthcare.com/products/anesthesia-delivery
 
-8. Mindray. *WATO EX-20 / EX-35 Service Manual*. https://www.mindray.com
+8. Mindray. *WATO EX-20 / EX-35 Service Manual*.  
+https://www.mindray.com
 
-9. Miller, R. D. (2020). *Miller’s Anesthesia* (9th ed.). Elsevier. https://www.elsevier.com/books/millers-anesthesia/gropper/978-0-323-59604-6
+9. Miller, R. D. (2020). *Miller’s Anesthesia* (9th ed.). Elsevier.  
+https://www.elsevier.com/books/millers-anesthesia/gropper/978-0-323-59604-6
 
-10. Dorsch, J. A., & Dorsch, S. E. (2014). *Understanding Anesthesia Equipment* (5th ed.). Wolters Kluwer. https://shop.lww.com/Understanding-Anesthesia-Equipment/p/9781451115684
+10. Dorsch, J. A., & Dorsch, S. E. (2014). *Understanding Anesthesia Equipment* (5th ed.). Wolters Kluwer.  
+https://shop.lww.com/Understanding-Anesthesia-Equipment/p/9781451115684
+
+11. BrainKart. *Anesthesia – The Breathing Circuit*.  
+https://www.brainkart.com/article/Anesthesia-The-Breathing-Circuit_26782/
+
+12. MedlinePlus. *Anesthesia*.  
+https://medlineplus.gov/anesthesia.html
+
+13. FDA. *Anesthesia Gas Machines*.  
+https://www.fda.gov/medical-devices/general-hospital-devices-and-supplies/anesthesia-gas-machines
+
+14. OpenAnesthesia. *Anesthesia Machine Basics*.  
+https://www.openanesthesia.org/keywords/anesthesia-machine/
+
+15. World Health Organization (WHO). *Medical device technical series*.  
+https://www.who.int/teams/health-product-policy-and-standards/assistive-and-medical-technology/medical-devices
+
+16. Dräger. *Anesthesia Workstations*.  
+https://www.draeger.com/en-us_us/Hospital/Products/Anesthesia-Workstations
+
+17. Medtronic. *Anesthesia and Respiratory Care Products*.  
+https://www.medtronic.com
+
+18. American Association of Nurse Anesthesiology (AANA). *Anesthesia Patient Safety*.  
+https://www.aana.com/practice/clinical-practice/patient-safety
+
+19. Elsevier ClinicalKey. *Principles of Anesthesia Equipment*.  
+https://www.clinicalkey.com
+
+20. Biomedical Instrumentation & Technology Journal. *Safety considerations in anesthesia workstations*.  
+https://www.aami.org/bit
