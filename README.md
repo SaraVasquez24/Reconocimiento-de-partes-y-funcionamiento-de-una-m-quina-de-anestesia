@@ -263,7 +263,7 @@ Este sistema está compuesto por elementos como el circuito respiratorio, mangue
 </p>
 
 <p align="center">
-  <em>Figura 1. Componentes del sistema respiratorio (Elaboración Propia).</em>
+  <em>Figura 1. Componentes del sistema respiratorio (Imagen tomada de Dorsch & Dorsch y Elaboración Propia).</em>
 </p>
 
 En máquinas de anestesia como la WATO EX-20, el sistema respiratorio también incorpora sensores y mecanismos de monitoreo que supervisan parámetros como presión en vía aérea, volumen tidal y flujo respiratorio, ayudando a detectar fugas, obstrucciones o alteraciones ventilatorias durante la cirugía.
