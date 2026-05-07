@@ -1,71 +1,54 @@
 # Máquina de Anestesia 
 
 # Tabla de Contenido
-
-1. Introducción  
-2. Clasificación del equipo  
-3. Normatividad aplicable  
-   3.1 Normas internacionales  
-   3.1.1 ISO 80601-2-13:2022  
-   3.1.2 IEC 60601-1  
-   3.2 Normatividad colombiana  
-   3.2.1 INVIMA  
-   3.2.2 Resolución 3100 de 2019  
-
----
+- Introducción  
+- Clasificación del equipo  
+- Normatividad aplicable  
+  - Normas internacionales  
+    - ISO 80601-2-13:2022  
+    - IEC 60601-1  
+  - Normatividad colombiana  
+    - INVIMA  
+    - Resolución 3100 de 2019  
+- Guía de uso rápido de la máquina WATO EX-20  
 
 ## PARTE A
 
-4. Tipos de anestesia  
-   4.1 Anestesia general  
-   4.2 Anestesia regional  
-   4.3 Anestesia local  
-   4.4 Sedación  
-
-5. Gases utilizados en la máquina de anestesia  
-
-6. Sistema de respiración en la máquina de anestesia  
-   6.1 Esterilización por autoclave  
-
-7. Submenús del ventilador  
-   7.1 Pantalla principal del ventilador  
-   7.2 Modo Vent  
-   7.3 Ajuste de alarmas  
-   7.4 Ajuste usuario  
-   7.5 Mantenimiento  
-
----
-
+- Tipos de anestesia  
+  - Anestesia general  
+  - Anestesia regional  
+  - Anestesia local  
+  - Sedación  
+- Gases utilizados en la máquina  
+- Sistema de respiración en la máquina de anestesia  
+  - Esterilización por autoclave  
+- Submenús del ventilador  
+  - Pantalla principal del ventilador  
+  - Modo Vent  
+  - Ajuste de alarmas  
+  - Ajuste usuario  
+  - Mantenimiento
+    
 ## PARTE B
 
-8. Identificación de partes de la máquina de anestesia WATO EX-20  
-   8.1 Vaporizador  
-   8.2 Válvula APL  
-   8.3 Recipiente absorbente de CO₂  
-   8.4 Fuelle  
-
-9. Mensaje “batería en uso”  
-
-10. Frecuencia de reemplazo del absorbedor de CO₂  
-
-11. Procedimiento para verificar fugas en el cilindro de alta presión  
-
-12. Influencia del sensor de O₂ en el sistema de control de flujo  
-
-13. Sistema de presión negativa (Scavenging)  
-
-14. Documentación de la práctica  
-   14.1 Procedimiento realizado durante la práctica  
-
-15. Preguntas para la discusión  
-   15.1 ¿Qué tipos de anestésicos son los más usados en cirugía?  
-   15.2 ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?  
-
-16. Conclusiones  
-
-17. Moraleja  
-
-18. Referencias bibliográficas
+- Identificación de partes de la máquina WATO EX-20  
+  - Vaporizador  
+  - Válvula APL  
+  - Recipiente absorbente de CO₂  
+  - Fuelle  
+- Mensaje “batería en uso”  
+- Frecuencia de reemplazo del absorbedor de CO₂  
+- Procedimiento para verificar fugas en alta presión  
+- Influencia del sensor de O₂  
+- Sistema de presión negativa (Scavenging)  
+- Documentación de la práctica  
+  - Procedimiento realizado durante la práctica  
+- Preguntas para la discusión  
+  - Tipos de anestésicos más usados en cirugía  
+  - Diferencias entre el modelo EX-35 y EX-20  
+- Conclusiones  
+- Moraleja  
+- Referencias bibliográficas
 
 ## Introducción
 
