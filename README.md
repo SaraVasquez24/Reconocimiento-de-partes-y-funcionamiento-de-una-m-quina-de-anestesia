@@ -198,6 +198,7 @@ La sedación consiste en administrar medicamentos para disminuir la ansiedad, el
 #### Importancia clínica:
 La sedación suele combinarse con anestesia local o regional para aumentar el confort del paciente.
 
+#### Conclusión
 
 Los tipos de anestesia se seleccionan según el procedimiento quirúrgico y las condiciones del paciente. La anestesia general es la más compleja y requiere equipos especializados como la WATO EX-20, mientras que la anestesia local y regional permiten intervenciones más específicas con menor afectación sistémica. La sedación complementa muchos procedimientos al reducir ansiedad y dolor sin inducir necesariamente inconsciencia completa.
 
@@ -245,24 +246,95 @@ Entre las partes que comúnmente pueden esterilizarse mediante autoclave se encu
 
 <img width="603" height="423" alt="image" src="https://github.com/user-attachments/assets/9eae5a39-093f-4c76-89e1-cc0214400cc0" />
 
-
 Sin embargo, no todos los componentes pueden ser autoclavados como los sensores electrónicos, módulos de medición y algunas piezas plásticas sensibles al calor requieren métodos de desinfección diferentes según las recomendaciones del fabricante y el manual de servicio del equipo.
 
 ## Submenús del ventilador
 
-El ventilador de la máquina de anestesia **WATO EX-20** posee varios submenús que permiten configurar, monitorear y ajustar los parámetros respiratorios del paciente durante el procedimiento anestésico. Estos submenús facilitan el control de los modos de ventilación, alarmas, monitoreo y ajustes avanzados del sistema respiratorio.
+A partir de la interfaz observada en la máquina de anestesia, se identifican varios submenús principales del ventilador que permiten configurar, monitorear y realizar mantenimiento al sistema respiratorio durante el procedimiento anestésico.
 
-Los principales submenús del ventilador son:
+### Pantalla principal del ventilador
+La pantalla principal muestra el estado general del ventilador y parámetros respiratorios importantes como:
+- Volumen tidal.
+- Frecuencia respiratoria.
+- Relación I:E.
+- PEEP.
+- Presión límite.
+- Estado Standby.
 
-| Submenú | Función |
-|---|---|
-| **Ventilation Setup** | Permite configurar los parámetros principales de ventilación como volumen tidal, frecuencia respiratoria, relación I:E y presión límite. |
-| **Ventilation Mode** | Se selecciona el modo ventilatorio que utilizará el equipo, como ventilación controlada por volumen (VCV), controlada por presión (PCV) o ventilación manual/espontánea. |
-| **Alarm Setup** | Configura los límites de alarmas respiratorias y de seguridad, incluyendo presión alta, volumen minuto y apnea. |
-| **Monitoring** | Muestra parámetros respiratorios en tiempo real, como presión en vía aérea, volumen tidal, frecuencia respiratoria y curvas ventilatorias. |
-| **System Settings** | Permite realizar ajustes generales del ventilador y configuraciones internas del sistema. |
+También se visualizan alarmas activas y el estado operativo del equipo.
 
-La pausa inspiratoria puede activarse generalmente dentro del submenú **Ventilation Setup**, ya que esta función forma parte de los parámetros avanzados de ventilación. La pausa inspiratoria consiste en mantener el flujo de gas detenido durante un breve tiempo al final de la inspiración, permitiendo mejorar la distribución del gas en los pulmones y facilitar ciertas mediciones respiratorias como la presión plateau.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d7cd2a36-6a1e-49de-b4b2-9cc397cf4d6a" height="320"/>
+</p>
+
+
+### Modo Vent
+Este submenú permite seleccionar y configurar el modo de ventilación utilizado por el ventilador mecánico, en las imágenes se observan modos como:
+
+- **VCV (Ventilación Controlada por Volumen)**.
+- **PCV (Ventilación Controlada por Presión)**.
+
+En este menú también se ajustan parámetros ventilatorios como:
+- Volumen corriente (VC).
+- Frecuencia respiratoria.
+- Relación inspiración/espiración (I:E).
+- PEEP.
+- Presión inspiratoria.
+
+La función de pausa inspiratoria puede activarse dentro de este submenú, ya que forma parte de los parámetros respiratorios avanzados de ventilación.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f24f13e8-5e5a-4ff1-96c2-cc800db6872a" height="320"/>
+</p>
+
+### Ajuste de Alarmas
+
+El submenú ajuste alarma permite configurar los límites de seguridad del ventilador para alertar sobre alteraciones respiratorias o fallas del sistema.
+
+Entre las alarmas configurables observadas se encuentran:
+- Volumen minuto (VM).
+- Presión en vía aérea (Pva).
+- Volumen corriente espirado (VCe).
+- Frecuencia respiratoria.
+- Alarmas de apnea.
+
+Estas alarmas ayudan a proteger al paciente durante la anestesia y permiten detectar fugas, desconexiones o alteraciones ventilatorias.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e350e591-a827-4ee4-a876-7e5650d5e806" height="320"/>
+</p>
+
+### Ajuste Usuario
+
+El menú ajuste usuario corresponde a configuraciones generales del usuario y de la interfaz del ventilador, en este apartado pueden modificarse parámetros relacionados con:
+- Fuente de monitoreo de oxígeno.
+- Configuración de pantalla y audio.
+- Carga de parámetros predeterminados.
+
+Este menú facilita la personalización de la operación del equipo según las necesidades clínicas.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01fdb24f-56c3-4f43-a986-ccff306fc645" height="320"/>
+</p>
+
+### Mantenimiento
+
+El submenú Mantenim contiene funciones técnicas y pruebas internas del ventilador para verificar el correcto funcionamiento del sistema respiratorio.
+
+Entre las opciones observadas se encuentran:
+- Chequeo de compliancia y fugas.
+- Calibración del sensor de O₂.
+- Calibración del sensor de flujo.
+- Mantenimiento de usuario.
+- Mantenimiento de fábrica.
+
+Estas pruebas permiten asegurar que la máquina funcione correctamente antes de iniciar un procedimiento anestésico.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/53980a36-9f12-4cac-8bf7-84c5e00638dd" height="320"/>
+</p>
+
+
 
 
 
@@ -660,4 +732,3 @@ La práctica permitió identificar los componentes principales de la estación d
 9. Miller, R. D. (2020). *Miller’s Anesthesia* (9th ed.). Elsevier. https://www.elsevier.com/books/millers-anesthesia/gropper/978-0-323-59604-6
 
 10. Dorsch, J. A., & Dorsch, S. E. (2014). *Understanding Anesthesia Equipment* (5th ed.). Wolters Kluwer. https://shop.lww.com/Understanding-Anesthesia-Equipment/p/9781451115684
-
