@@ -490,7 +490,7 @@ Desde el punto de vista biomédico, el reemplazo periódico del absorbedor forma
 </p>
 
 <p align="center">
-  <em>Figura. Cambio de color de la cal sodada indicando saturación del absorbedor de CO₂ (imagen recuperada de internet).</em>
+  <em>Figura. Cambio de color de la cal sodada indicando saturación del absorbedor de CO₂ (imagen recuperada de AMSORB).</em>
 </p>
 
 ### 4. Procedimiento para verificar si hay fuga en el cilindro de alta presión
