@@ -134,8 +134,8 @@ La guía incluye recomendaciones relacionadas con:
 Además, esta lista de chequeo permite disminuir riesgos clínicos asociados a fallas operativas, mezclas hipóxicas, problemas de ventilación o errores en la administración anestésica. Desde el punto de vista biomédico, estas verificaciones son fundamentales debido a que la máquina de anestesia es un equipo de soporte vital y cualquier falla podría comprometer directamente la seguridad del paciente.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2130bd1a-c312-437e-a30e-096c80ba0770" height="260"/>
-  <img src="https://github.com/user-attachments/assets/0899c69f-3dc0-4e30-b843-f5a3b9bb5981" height="260"/>
+  <img src="https://github.com/user-attachments/assets/2130bd1a-c312-437e-a30e-096c80ba0770" height="360"/>
+  <img src="https://github.com/user-attachments/assets/0899c69f-3dc0-4e30-b843-f5a3b9bb5981" height="360"/>
 </p>
 
 <p align="center">
