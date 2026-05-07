@@ -1,111 +1,140 @@
-# Máquina de Anestesia
-## Introducción
-
-La máquina de anestesia es uno de los equipos biomédicos más importantes dentro del entorno hospitalario, especialmente en salas de cirugía y unidades de procedimientos. Su función principal es administrar de manera controlada gases medicinales y agentes anestésicos al paciente, garantizando simultáneamente ventilación mecánica, oxigenación y monitoreo continuo durante el acto quirúrgico.
-
-Estos equipos son considerados sistemas de soporte vital, debido a que cualquier falla en el suministro de oxígeno, ventilación o administración anestésica puede comprometer directamente la vida del paciente. Por esta razón, el conocimiento de su funcionamiento, componentes, pruebas de seguridad y mantenimiento es fundamental para el ingeniero biomédico.
-
-En esta práctica se realizó el estudio de la máquina de anestesia WATO EX-20 / EX-35, analizando sus subsistemas, flujo de gases, modos ventilatorios, pruebas de funcionamiento, alarmas críticas y posibles fallas operativas. Además, se desarrolló una guía de verificación preoperatoria y un análisis técnico enfocado en seguridad clínica y gestión del riesgo biomédico.
-
----
+# Máquina de Anestesia 
 
 # Tabla de Contenido
 
-1. ¿Qué es una máquina de anestesia?
-2. Clasificación del equipo
-3. Normatividad aplicable
-4. Tipos de anestesia
-5. Gases utilizados
-6. Sistemas principales
-7. Componentes principales
-8. Modos ventilatorios
-9. Funcionamiento general
-10. Alarmas críticas
-11. Pruebas de funcionamiento
-12. Checklist pre-anestesia
-13. Procedimiento de encendido
-14. Procedimiento ante falla
-15. Fallas comunes
-16. Tecnologías modernas
-17. Análisis de riesgos
-18. Conclusiones
-19. Referencias bibliográficas
+1. Introducción  
+2. Clasificación del equipo  
+3. Normatividad aplicable  
+   3.1 Normas internacionales  
+   3.1.1 ISO 80601-2-13:2022  
+   3.1.2 IEC 60601-1  
+   3.2 Normatividad colombiana  
+   3.2.1 INVIMA  
+   3.2.2 Resolución 3100 de 2019  
 
 ---
 
-# 1. ¿Qué es una máquina de anestesia?
+# PARTE A
 
-La máquina de anestesia es un sistema electromédico diseñado para:
+4. Tipos de anestesia  
+   4.1 Anestesia general  
+   4.2 Anestesia regional  
+   4.3 Anestesia local  
+   4.4 Sedación  
 
-- Administrar gases medicinales y anestésicos.
-- Mantener ventilación mecánica.
-- Monitorear variables respiratorias.
-- Controlar la concentración de oxígeno y agentes volátiles.
-- Eliminar gases residuales del quirófano.
+5. Gases utilizados en la máquina de anestesia  
 
-El equipo permite mantener al paciente en un estado de anestesia segura durante una cirugía, garantizando tres efectos fundamentales:
+6. Sistema de respiración en la máquina de anestesia  
+   6.1 Esterilización por autoclave  
 
-- Hipnosis (pérdida de conciencia)
-- Analgesia (ausencia de dolor)
-- Relajación muscular
-
-Actualmente las estaciones de anestesia modernas integran ventilador mecánico, monitores multiparámetro, módulos de análisis de gases y sistemas electrónicos de seguridad.
-
----
-
-# 2. Clasificación del equipo
-
-Desde el punto de vista regulatorio y biomédico, la máquina de anestesia se clasifica como:
-
-- Equipo electromédico de soporte vital.
-- Clase IIb de riesgo.
-- Equipo crítico para atención quirúrgica y cuidados perioperatorios.
-
-Debido a su criticidad, debe cumplir estrictamente normas de seguridad eléctrica, neumática y funcional.
+7. Submenús del ventilador  
+   7.1 Pantalla principal del ventilador  
+   7.2 Modo Vent  
+   7.3 Ajuste de alarmas  
+   7.4 Ajuste usuario  
+   7.5 Mantenimiento  
 
 ---
 
-# 3. Normatividad aplicable
+# PARTE B
 
-## Normas internacionales
+8. Identificación de partes de la máquina de anestesia WATO EX-20  
+   8.1 Vaporizador  
+   8.2 Válvula APL  
+   8.3 Recipiente absorbente de CO₂  
+   8.4 Fuelle  
 
-### ISO 80601-2-13:2022
+9. Mensaje “batería en uso”  
 
-Norma específica para estaciones de trabajo de anestesia. Define requisitos esenciales de:
+10. Frecuencia de reemplazo del absorbedor de CO₂  
 
+11. Procedimiento para verificar fugas en el cilindro de alta presión  
+
+12. Influencia del sensor de O₂ en el sistema de control de flujo  
+
+13. Sistema de presión negativa (Scavenging)  
+
+14. Documentación de la práctica  
+   14.1 Procedimiento realizado durante la práctica  
+
+15. Preguntas para la discusión  
+   15.1 ¿Qué tipos de anestésicos son los más usados en cirugía?  
+   15.2 ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?  
+
+16. Conclusiones  
+
+17. Moraleja  
+
+18. Referencias bibliográficas
+
+## Introducción
+
+La máquina de anestesia es uno de los equipos biomédicos más importantes dentro del entorno hospitalario, especialmente en salas de cirugía y áreas de procedimientos quirúrgicos. Su función principal es administrar de manera controlada gases medicinales y agentes anestésicos al paciente, garantizando simultáneamente ventilación mecánica, oxigenación adecuada y monitoreo continuo durante el acto anestésico.
+
+Estos equipos son considerados sistemas de soporte vital, debido a que cualquier falla en el suministro de oxígeno, ventilación o administración anestésica puede comprometer directamente la vida del paciente. Por esta razón, las máquinas de anestesia incorporan múltiples sistemas de seguridad, monitoreo y alarmas que permiten detectar oportunamente alteraciones respiratorias, fugas de gases o fallas del sistema.
+
+Actualmente, las estaciones de anestesia modernas integran ventiladores mecánicos, módulos de monitoreo respiratorio, sensores de flujo y presión, sistemas de evacuación de gases anestésicos y software de configuración avanzada, permitiendo un control más preciso y seguro durante los procedimientos quirúrgicos.
+
+En esta práctica se realizó el reconocimiento y análisis de la máquina de anestesia WATO EX-20 / EX-35, identificando sus principales componentes físicos, submenús del ventilador, sistemas respiratorios, alarmas y funciones operativas. Asimismo, se documentaron pruebas de funcionamiento, medidas de seguridad y procedimientos básicos relacionados con la operación y mantenimiento del equipo desde el enfoque de ingeniería biomédica.
+
+## Clasificación del equipo
+
+Desde el punto de vista biomédico y regulatorio, la máquina de anestesia se clasifica como un equipo electromédico de soporte vital, debido a que participa directamente en el mantenimiento de funciones fisiológicas esenciales durante procedimientos quirúrgicos.
+
+Este tipo de equipos pertenece generalmente a la categoría de dispositivos médicos de alto riesgo, ya que cualquier falla puede generar consecuencias graves para el paciente, incluyendo hipoxia, hipoventilación o alteraciones hemodinámicas.
+
+Además, las estaciones de anestesia modernas integran sistemas neumáticos, eléctricos y electrónicos altamente especializados, por lo que requieren mantenimiento preventivo periódico, protocolos estrictos de verificación y monitoreo continuo durante su utilización clínica.
+
+## Normatividad aplicable
+
+### Normas internacionales
+
+#### ISO 80601-2-13:2022
+
+La norma ISO 80601-2-13 establece los requisitos particulares de seguridad básica y funcionamiento esencial para estaciones de trabajo de anestesia. Esta norma regula aspectos relacionados con:
 - Seguridad del paciente.
-- Precisión en administración de gases.
+- Precisión en la administración de gases anestésicos.
+- Sistemas de ventilación.
 - Alarmas críticas.
-- Ventilación anestésica.
-- Desempeño esencial.
+- Protección contra mezclas hipóxicas.
+- Requisitos de desempeño esencial.
 
-### IEC 60601-1
+Su objetivo principal es garantizar que las máquinas de anestesia funcionen de manera segura y confiable dentro del entorno hospitalario.
 
-Norma general para seguridad eléctrica de equipos electromédicos.
+#### IEC 60601-1
 
-Evalúa:
-
-- Corrientes de fuga.
+La norma IEC 60601-1 corresponde al estándar internacional de seguridad eléctrica para equipos electromédicos. Esta norma evalúa aspectos como:
 - Protección contra choques eléctricos.
+- Corrientes de fuga.
 - Compatibilidad electromagnética.
 - Aislamiento eléctrico.
+- Seguridad operacional.
 
-## Normatividad colombiana
+Debido a que la máquina de anestesia es un equipo de soporte vital conectado directamente al paciente, el cumplimiento de esta norma es fundamental para reducir riesgos eléctricos durante el procedimiento quirúrgico.
 
-### INVIMA
+### Normatividad colombiana
 
-Entidad encargada de la vigilancia sanitaria y tecnovigilancia de dispositivos médicos en Colombia.
+#### INVIMA
 
-### Resolución 3100 de 2019
+En Colombia, el INVIMA es la entidad encargada de la vigilancia sanitaria y tecnovigilancia de dispositivos médicos. Dentro de sus funciones se encuentra el control y seguimiento de equipos biomédicos utilizados en instituciones de salud, incluyendo máquinas de anestesia.
 
-Establece condiciones de habilitación para servicios de salud incluyendo:
+Además, supervisa procesos relacionados con:
+- Registro sanitario.
+- Reporte de eventos adversos.
+- Seguridad clínica.
+- Gestión tecnológica hospitalaria.
 
-- Gestión tecnológica.
-- Mantenimiento biomédico.
-- Seguridad del paciente.
-- Protocolos de verificación.
+#### Resolución 3100 de 2019
 
----
+La Resolución 3100 de 2019 establece las condiciones de habilitación para servicios de salud en Colombia. Esta normativa exige que los equipos biomédicos críticos, como las máquinas de anestesia, cuenten con:
+- Mantenimiento preventivo y correctivo.
+- Protocolos de verificación funcional.
+- Gestión del riesgo.
+- Registro de calibraciones.
+- Condiciones seguras de operación.
+
+El cumplimiento de estas normas permite garantizar seguridad del paciente, continuidad operativa y calidad en la atención quirúrgica.
+
 
 # PARTE A
 
