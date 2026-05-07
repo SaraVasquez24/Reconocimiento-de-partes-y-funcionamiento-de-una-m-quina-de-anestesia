@@ -264,7 +264,7 @@ La pantalla principal muestra el estado general del ventilador y parámetros res
 También se visualizan alarmas activas y el estado operativo del equipo.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7cd2a36-6a1e-49de-b4b2-9cc397cf4d6a" height="320"/>
+ <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f7901363-ba5c-4df5-a3e0-a990f403ed24" />
 </p>
 
 
@@ -284,7 +284,7 @@ En este menú también se ajustan parámetros ventilatorios como:
 La función de pausa inspiratoria puede activarse dentro de este submenú, ya que forma parte de los parámetros respiratorios avanzados de ventilación.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f24f13e8-5e5a-4ff1-96c2-cc800db6872a" height="320"/>
+  <img width="907" height="438" alt="image" src="https://github.com/user-attachments/assets/04c0d46a-2450-4b3b-b398-70ef695fca91" />
 </p>
 
 ### Ajuste de Alarmas
@@ -314,7 +314,7 @@ El menú ajuste usuario corresponde a configuraciones generales del usuario y de
 Este menú facilita la personalización de la operación del equipo según las necesidades clínicas.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/01fdb24f-56c3-4f43-a986-ccff306fc645" height="320"/>
+  <img width="865" height="561" alt="image" src="https://github.com/user-attachments/assets/66989075-f0bb-4cf9-9be7-6e1294e21778" />
 </p>
 
 ### Mantenimiento
@@ -331,7 +331,7 @@ Entre las opciones observadas se encuentran:
 Estas pruebas permiten asegurar que la máquina funcione correctamente antes de iniciar un procedimiento anestésico.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/53980a36-9f12-4cac-8bf7-84c5e00638dd" height="320"/>
+  <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/e143da49-3c41-4d1d-9653-70307ae848a0" />
 </p>
 
 
