@@ -152,14 +152,13 @@ Durante los procedimientos quirúrgicos existen cuatro tipos principales de anes
 
 La anestesia general produce una pérdida completa y reversible de la consciencia, en esta el paciente permanece dormido, sin dolor y sin percepción del entorno durante toda la cirugía.
 
-#### Características principales:
+#### Características principales
 - Induce inconsciencia total.
 - El paciente no siente dolor ni recuerda el procedimiento.
 - Generalmente requiere soporte de la respiración mediante ventilación mecánica.
 - Se administra por vía intravenosa, inhalatoria o combinada.
 
-#### Uso común:
-Se emplea en:
+#### Se emplea en
 - Cirugías abdominales.
 - Cirugías cardíacas.
 - Neurocirugías.
@@ -172,22 +171,22 @@ Equipos como la máquina de anestesia WATO EX-20 están diseñados para administ
 
 La anestesia regional bloquea la sensibilidad y el dolor en una región específica del cuerpo, mientras el paciente puede permanecer despierto o ligeramente sedado.
 
-#### Características principales:
+#### Características principales
 - Se bloquean nervios específicos o grupos nerviosos.
 - El paciente normalmente conserva la consciencia.
 - Reduce el dolor sin afectar todo el organismo.
 
-#### Tipos más comunes:
+#### Tipos más comunes
 - **Anestesia epidural:** utilizada frecuentemente en partos y cirugías abdominales inferiores.
 - **Anestesia espinal o raquídea:** aplicada en cesáreas y cirugías de miembros inferiores.
 - **Bloqueos nerviosos periféricos:** empleados en cirugías ortopédicas.
 
-#### Uso común:
+#### Se emplea en
 - Cesáreas.
 - Cirugías de piernas y brazos.
 - Procedimientos urológicos.
 
-#### Ventajas:
+#### Ventajas
 - Menor riesgo respiratorio.
 - Recuperación más rápida.
 - Menor consumo de anestésicos generales.
@@ -198,18 +197,18 @@ Aunque la máquina de anestesia WATO EX-20 está diseñada principalmente para a
 
 La anestesia local adormece únicamente una pequeña zona del cuerpo sin alterar el estado de consciencia del paciente.
 
-#### Características principales:
+#### Características principales
 - El paciente permanece completamente despierto.
 - Se administra mediante inyección o aplicación tópica.
 - Actúa sobre terminaciones nerviosas locales.
 
-#### Uso común:
+#### Se emplea en
 - Sutura de heridas.
 - Procedimientos odontológicos.
 - Extracción de lunares o biopsias.
 - Pequeñas cirugías ambulatorias.
 
-#### Ventajas:
+#### Ventajas
 - Bajo riesgo sistémico.
 - Recuperación inmediata.
 - Procedimiento sencillo y rápido.
@@ -219,18 +218,18 @@ La anestesia local adormece únicamente una pequeña zona del cuerpo sin alterar
 
 La sedación consiste en administrar medicamentos para disminuir la ansiedad, el dolor y el nivel de consciencia del paciente sin llegar necesariamente a una pérdida total de la consciencia.
 
-#### Niveles de sedación:
+#### Niveles de sedación
 - **Sedación mínima:** paciente relajado pero despierto.
 - **Sedación moderada:** paciente somnoliento pero responde a estímulos.
 - **Sedación profunda:** el paciente duerme y responde difícilmente.
 
-#### Uso común:
+#### Se emplea en
 - Endoscopias.
 - Colonoscopias.
 - Procedimientos diagnósticos.
 - Cirugías menores.
 
-#### Importancia clínica:
+#### Importancia clínica
 La sedación suele combinarse con anestesia local o regional para aumentar el confort del paciente.
 
 Los tipos de anestesia se seleccionan según el procedimiento quirúrgico y las condiciones del paciente. La anestesia general es la más compleja y requiere equipos especializados como la WATO EX-20, mientras que la anestesia local y regional permiten intervenciones más específicas con menor afectación sistémica. La sedación complementa muchos procedimientos al reducir ansiedad y dolor sin inducir necesariamente inconsciencia completa.
