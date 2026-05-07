@@ -107,6 +107,7 @@ Establece condiciones de habilitación para servicios de salud incluyendo:
 - Protocolos de verificación.
 
 ---
+
 # PARTE A
 
 ## 1. Tipos de anestesia
@@ -197,7 +198,7 @@ La sedación consiste en administrar medicamentos para disminuir la ansiedad, el
 #### Importancia clínica:
 La sedación suele combinarse con anestesia local o regional para aumentar el confort del paciente.
 
-# Conclusión
+#### Conclusión
 
 Los tipos de anestesia se seleccionan según el procedimiento quirúrgico y las condiciones del paciente. La anestesia general es la más compleja y requiere equipos especializados como la WATO EX-20, mientras que la anestesia local y regional permiten intervenciones más específicas con menor afectación sistémica. La sedación complementa muchos procedimientos al reducir ansiedad y dolor sin inducir necesariamente inconsciencia completa.
 
@@ -216,12 +217,13 @@ Además de estos gases, la máquina también trabaja con anestésicos volátiles
 
 Los gases pueden provenir de la red central hospitalaria o de cilindros de respaldo conectados directamente a la máquina, cuando se utilizan cilindros, especialmente los de oxígeno y óxido nitroso, los gases ingresan inicialmente mediante un sistema de alta presión, un cilindro de oxígeno lleno puede alcanzar aproximadamente 2200 PSI, mientras que uno de óxido nitroso puede encontrarse alrededor de 750 PSI. Debido a estas altas presiones, la máquina incorpora reguladores y válvulas de seguridad que reducen la presión a niveles adecuados antes de que los gases ingresen al sistema respiratorio del paciente.
 
-## Presiones típicas
+### Presiones típicas
 - Red hospitalaria: 40–60 PSI.
 - Cilindro de O₂ lleno: aproximadamente 2200 PSI.
 - Cilindro de N₂O lleno: aproximadamente 750 PSI.
 
 Gracias a estos sistemas de regulación y monitoreo, la máquina de anestesia puede administrar mezclas gaseosas precisas y seguras durante todo el procedimiento quirúrgico.
+
 
 ## Sistema de respiración en la máquina de anestesia
 
@@ -233,18 +235,35 @@ Este sistema está compuesto por elementos como el circuito respiratorio, mangue
 
 En máquinas de anestesia como la WATO EX-20, el sistema respiratorio también incorpora sensores y mecanismos de monitoreo que supervisan parámetros como presión en vía aérea, volumen tidal y flujo respiratorio, ayudando a detectar fugas, obstrucciones o alteraciones ventilatorias durante la cirugía.
 
-#### Esterilización por autoclave 
+### Esterilización por autoclave 
 
 Debido al contacto directo con el flujo respiratorio del paciente, varias partes del sistema requieren procesos de limpieza y esterilización para prevenir infecciones cruzadas. 
 
 Entre las partes que comúnmente pueden esterilizarse mediante autoclave se encuentran las mangueras respiratorias reutilizables, la bolsa reservorio, algunas válvulas respiratorias, conectores y ciertos componentes desmontables del circuito respiratorio fabricados con materiales resistentes a altas temperaturas y presión.
 
-<img width="603" height="423" alt="image" src="https://github.com/user-attachments/assets/9eae5a39-093f-4c76-89e1-cc0214400cc0" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9eae5a39-093f-4c76-89e1-cc0214400cc0" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f24f13e8-5e5a-4ff1-96c2-cc800db6872a" width="45%" />
+</p>
+
 
 Sin embargo, no todos los componentes pueden ser autoclavados como los sensores electrónicos, módulos de medición y algunas piezas plásticas sensibles al calor requieren métodos de desinfección diferentes según las recomendaciones del fabricante y el manual de servicio del equipo.
 
+## Submenús del ventilador
 
+El ventilador de la máquina de anestesia **WATO EX-20** posee varios submenús que permiten configurar, monitorear y ajustar los parámetros respiratorios del paciente durante el procedimiento anestésico. Estos submenús facilitan el control de los modos de ventilación, alarmas, monitoreo y ajustes avanzados del sistema respiratorio.
 
+Los principales submenús del ventilador son:
+
+| Submenú | Función |
+|---|---|
+| **Ventilation Setup** | Permite configurar los parámetros principales de ventilación como volumen tidal, frecuencia respiratoria, relación I:E y presión límite. |
+| **Ventilation Mode** | Se selecciona el modo ventilatorio que utilizará el equipo, como ventilación controlada por volumen (VCV), controlada por presión (PCV) o ventilación manual/espontánea. |
+| **Alarm Setup** | Configura los límites de alarmas respiratorias y de seguridad, incluyendo presión alta, volumen minuto y apnea. |
+| **Monitoring** | Muestra parámetros respiratorios en tiempo real, como presión en vía aérea, volumen tidal, frecuencia respiratoria y curvas ventilatorias. |
+| **System Settings** | Permite realizar ajustes generales del ventilador y configuraciones internas del sistema. |
+
+La pausa inspiratoria puede activarse generalmente dentro del submenú **Ventilation Setup**, ya que esta función forma parte de los parámetros avanzados de ventilación. La pausa inspiratoria consiste en mantener el flujo de gas detenido durante un breve tiempo al final de la inspiración, permitiendo mejorar la distribución del gas en los pulmones y facilitar ciertas mediciones respiratorias como la presión plateau.
 
 
 
