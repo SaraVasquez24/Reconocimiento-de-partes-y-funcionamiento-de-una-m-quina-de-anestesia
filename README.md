@@ -54,11 +54,11 @@
 
 La máquina de anestesia es uno de los equipos biomédicos más importantes dentro del entorno hospitalario, especialmente en salas de cirugía y áreas de procedimientos quirúrgicos. Su función principal es administrar de manera controlada gases medicinales y agentes anestésicos al paciente, garantizando simultáneamente ventilación mecánica, oxigenación adecuada y monitoreo continuo durante el acto anestésico.
 
-Estos equipos son considerados sistemas de soporte vital, debido a que cualquier falla en el suministro de oxígeno, ventilación o administración anestésica puede comprometer directamente la vida del paciente. Por esta razón, las máquinas de anestesia incorporan múltiples sistemas de seguridad, monitoreo y alarmas que permiten detectar oportunamente alteraciones respiratorias, fugas de gases o fallas del sistema.
+Estos equipos son considerados sistemas de soporte vital, debido a que cualquier falla en el suministro de oxígeno, ventilación o administración anestésica puede comprometer directamente la vida del paciente. Por esta razón, las máquinas de anestesia incorporan múltiples sistemas de seguridad, monitoreo y alarmas que permiten detectar oportunamente alteraciones respiratorias, fugas de gases o fallas del sistema. (Miller & Pardo, 2020)
 
 Actualmente, las estaciones de anestesia modernas integran ventiladores mecánicos, módulos de monitoreo respiratorio, sensores de flujo y presión, sistemas de evacuación de gases anestésicos y software de configuración avanzada, permitiendo un control más preciso y seguro durante los procedimientos quirúrgicos.
 
-En esta práctica se realizó el reconocimiento y análisis de la máquina de anestesia WATO EX-20 / EX-35, identificando sus principales componentes físicos, submenús del ventilador, sistemas respiratorios, alarmas y funciones operativas. Asimismo, se documentaron pruebas de funcionamiento, medidas de seguridad y procedimientos básicos relacionados con la operación y mantenimiento del equipo desde el enfoque de ingeniería biomédica.
+En esta práctica se realizó el reconocimiento y análisis de la máquina de anestesia WATO EX-20 / EX-35, identificando sus principales componentes físicos, submenús del ventilador, sistemas respiratorios, alarmas y funciones operativas. Asimismo, se documentaron pruebas de funcionamiento, medidas de seguridad y procedimientos básicos relacionados con la operación y mantenimiento del equipo desde el enfoque de ingeniería biomédica. (Dorsch & Dorsch, 2014)
 
 ## Clasificación del equipo
 
