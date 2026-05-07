@@ -37,7 +37,7 @@
   - Recipiente absorbente de CO₂  
   - Fuelle  
 - Mensaje “batería en uso”  
-- Frecuencia de reemplazo del absorbedor de CO₂  
+- Frecuencia de reemplazo del absorbente de CO₂  
 - Procedimiento para verificar fugas en alta presión  
 - Influencia del sensor de O₂  
 - Sistema de presión negativa (Scavenging)  
@@ -261,7 +261,7 @@ Gracias a estos sistemas de regulación y monitoreo, la máquina de anestesia pu
 
 El sistema de respiración de una máquina de anestesia es el conjunto de componentes encargados de transportar los gases respiratorios y anestésicos entre la máquina y el paciente, su función principal es suministrar oxígeno y anestésicos inhalados, permitir la ventilación mecánica o espontánea del paciente y eliminar el dióxido de carbono (CO₂) producido durante la respiración.
 
-Este sistema está compuesto por elementos como el circuito respiratorio, mangueras inspiratorias y espiratorias, válvulas unidireccionales, absorbedor de CO₂, bolsa reservorio y conexiones hacia el ventilador mecánico. Durante el procedimiento quirúrgico, los gases circulan continuamente a través de este circuito, permitiendo controlar la respiración del paciente de manera segura y eficiente.
+Este sistema está compuesto por elementos como el circuito respiratorio, mangueras inspiratorias y espiratorias, válvulas unidireccionales, absorbente de CO₂, bolsa reservorio y conexiones hacia el ventilador mecánico. Durante el procedimiento quirúrgico, los gases circulan continuamente a través de este circuito, permitiendo controlar la respiración del paciente de manera segura y eficiente.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e350e591-a827-4ee4-a876-7e5650d5e806" height="230" />
@@ -285,7 +285,7 @@ Entre las partes que comúnmente pueden esterilizarse mediante autoclave se encu
 </p>
 
 <p align="center">
-  <em>Figura 2. Componentes reutilizables del circuito respiratorio que pueden esterilizarse mediante autoclave (Imagen realizada con IA).</em>
+  <em>Figura 2. Componentes reutilizables del circuito respiratorio que pueden esterilizarse mediante autoclave (Imagen realizada con IA, chatGPT, "Realiza un aimagen donde juntes los componentes de la maquina de anestesia que pueden ir al autoclave").</em>
 </p>
 
 Sin embargo, no todos los componentes pueden ser autoclavados como los sensores electrónicos, módulos de medición y algunas piezas plásticas sensibles al calor requieren métodos de desinfección diferentes según las recomendaciones del fabricante y el manual de servicio del equipo.
@@ -475,22 +475,22 @@ Si la batería presenta bajo nivel de carga o existe riesgo de apagado del equip
 
 Desde el punto de vista biomédico, este tipo de evento demuestra la importancia del mantenimiento preventivo de baterías, pruebas periódicas de autonomía y verificación constante de conexiones eléctricas en equipos de soporte vital.
 
-### 3. Frecuencia de reemplazo del absorbedor de CO₂
+### 3. Frecuencia de reemplazo del absorbente de CO₂
 
-El absorbedor de CO₂ debe reemplazarse cuando la cal sodada utilizada en su interior presenta signos de saturación y ya no puede eliminar adecuadamente el dióxido de carbono del aire espirado por el paciente, la frecuencia de reemplazo depende de varios factores, como el tiempo de uso de la máquina, la duración de las cirugías, el flujo de gases frescos y la cantidad de CO₂ producido por el paciente.
+El absorbente de CO₂ debe reemplazarse cuando la cal sodada utilizada en su interior presenta signos de saturación y ya no puede eliminar adecuadamente el dióxido de carbono del aire espirado por el paciente, la frecuencia de reemplazo depende de varios factores, como el tiempo de uso de la máquina, la duración de las cirugías, el flujo de gases frescos y la cantidad de CO₂ producido por el paciente.
 
 Uno de los principales indicadores de agotamiento es el cambio de color de la cal sodada hacia tonos violetas o rosados. Además, pueden observarse elevaciones en los valores de ETCO₂, aumento de temperatura en el circuito respiratorio y disminución de la eficiencia ventilatoria.
 
-En la práctica clínica, el absorbedor debe inspeccionarse antes de cada procedimiento quirúrgico como parte del checklist preoperatorio. Si existen signos de saturación o deterioro, se recomienda reemplazar inmediatamente la cal sodada para evitar complicaciones como reinhalación de CO₂, hipercapnia y alteraciones respiratorias en el paciente.
+En la práctica clínica, el absorbente debe inspeccionarse antes de cada procedimiento quirúrgico como parte del checklist preoperatorio. Si existen signos de saturación o deterioro, se recomienda reemplazar inmediatamente la cal sodada para evitar complicaciones como reinhalación de CO₂, hipercapnia y alteraciones respiratorias en el paciente.
 
-Desde el punto de vista biomédico, el reemplazo periódico del absorbedor forma parte del mantenimiento preventivo de la máquina de anestesia y es fundamental para garantizar seguridad ventilatoria y correcto funcionamiento del sistema respiratorio.
+Desde el punto de vista biomédico, el reemplazo periódico del absorbente forma parte del mantenimiento preventivo de la máquina de anestesia y es fundamental para garantizar seguridad ventilatoria y correcto funcionamiento del sistema respiratorio.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/70d8841e-a43a-4e21-bc71-a9cc3009e806" height="320"/>
 </p>
 
 <p align="center">
-  <em>Figura. Cambio de color de la cal sodada indicando saturación del absorbedor de CO₂ (imagen recuperada de AMSORB).</em>
+  <em>Figura. Cambio de color de la cal sodada indicando saturación del absorbente de CO₂ (imagen recuperada de AMSORB).</em>
 </p>
 
 ### 4. Procedimiento para verificar si hay fuga en el cilindro de alta presión
@@ -588,7 +588,7 @@ El modelo EX-35 también puede incorporar opciones adicionales de monitoreo de g
 
 La máquina de anestesia es un equipo biomédico fundamental dentro del área quirúrgica, ya que permite administrar gases anestésicos y mantener la ventilación del paciente de manera segura durante los procedimientos. 
 
-A través de esta práctica fue posible comprender la importancia de sus sistemas neumáticos, electrónicos y de monitoreo en la seguridad clínica, durante el desarrollo de la práctica se identificaron y analizaron componentes principales como vaporizadores, flujómetros, válvula APL, absorbedor de CO₂ y ventilador mecánico, entendiendo su funcionamiento y la relación que tienen con la estabilidad respiratoria y anestésica del paciente.
+A través de esta práctica fue posible comprender la importancia de sus sistemas neumáticos, electrónicos y de monitoreo en la seguridad clínica, durante el desarrollo de la práctica se identificaron y analizaron componentes principales como vaporizadores, flujómetros, válvula APL, absorbente de CO₂ y ventilador mecánico, entendiendo su funcionamiento y la relación que tienen con la estabilidad respiratoria y anestésica del paciente.
 
 Finalmente, se evidenció la importancia de las pruebas de funcionamiento, mantenimiento preventivo y sistemas de seguridad de la máquina de anestesia, ya que permiten detectar fallas oportunamente y reducir riesgos que puedan comprometer tanto al paciente como al personal médico durante una cirugía.
 
