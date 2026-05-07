@@ -14,7 +14,7 @@
 
 ---
 
-# PARTE A
+## PARTE A
 
 4. Tipos de anestesia  
    4.1 Anestesia general  
@@ -36,7 +36,7 @@
 
 ---
 
-# PARTE B
+## PARTE B
 
 8. Identificación de partes de la máquina de anestesia WATO EX-20  
    8.1 Vaporizador  
@@ -225,8 +225,6 @@ La sedación consiste en administrar medicamentos para disminuir la ansiedad, el
 
 #### Importancia clínica:
 La sedación suele combinarse con anestesia local o regional para aumentar el confort del paciente.
-
-#### Conclusión
 
 Los tipos de anestesia se seleccionan según el procedimiento quirúrgico y las condiciones del paciente. La anestesia general es la más compleja y requiere equipos especializados como la WATO EX-20, mientras que la anestesia local y regional permiten intervenciones más específicas con menor afectación sistémica. La sedación complementa muchos procedimientos al reducir ansiedad y dolor sin inducir necesariamente inconsciencia completa.
 
