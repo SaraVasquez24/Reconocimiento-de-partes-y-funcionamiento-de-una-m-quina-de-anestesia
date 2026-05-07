@@ -139,7 +139,7 @@ Además, esta lista de chequeo permite disminuir riesgos clínicos asociados a f
 </p>
 
 <p align="center">
-  <em>Figura. Guía rápida y lista de verificación preoperatoria de la máquina de anestesia WATO EX-20. Fuente: práctica de laboratorio.</em>
+  <em>Figura. Guía rápida y lista de verificación preoperatoria de la máquina de anestesia WATO EX-20 (imagen de elaboración propia).</em>
 </p>
 
 
@@ -286,7 +286,7 @@ Entre las partes que comúnmente pueden esterilizarse mediante autoclave se encu
 </p>
 
 <p align="center">
-  <em>Figura 2. Componentes reutilizables del circuito respiratorio que pueden esterilizarse mediante autoclave (Imagen recuperada de internet).</em>
+  <em>Figura 2. Componentes reutilizables del circuito respiratorio que pueden esterilizarse mediante autoclave (Imagen realizada con IA).</em>
 </p>
 
 Sin embargo, no todos los componentes pueden ser autoclavados como los sensores electrónicos, módulos de medición y algunas piezas plásticas sensibles al calor requieren métodos de desinfección diferentes según las recomendaciones del fabricante y el manual de servicio del equipo.
