@@ -1,109 +1,555 @@
 # Máquina de Anestesia WATO EX-20 / EX-35
 
 ## Introducción
-La máquina de anestesia es un equipo biomédico fundamental en los procedimientos quirúrgicos, ya que permite suministrar al paciente una mezcla controlada de gases anestésicos y oxígeno, además de proporcionar ventilación mecánica cuando el paciente no puede respirar por sí mismo. Su funcionamiento adecuado es crítico, debido a que cualquier falla puede comprometer directamente la vida del paciente.
 
-En esta práctica se realizó un análisis detallado del funcionamiento, componentes, pruebas y fallas de la máquina de anestesia, tomando como base la guía de laboratorio y el manual de servicio. Se estudiaron sus subsistemas, el flujo de gases, las pruebas operativas y se desarrolló un análisis técnico de sus posibles fallas.
+La máquina de anestesia es uno de los equipos biomédicos más importantes dentro del entorno hospitalario, especialmente en salas de cirugía y unidades de procedimientos. Su función principal es administrar de manera controlada gases medicinales y agentes anestésicos al paciente, garantizando simultáneamente ventilación mecánica, oxigenación y monitoreo continuo durante el acto quirúrgico.
 
+Estos equipos son considerados sistemas de soporte vital, debido a que cualquier falla en el suministro de oxígeno, ventilación o administración anestésica puede comprometer directamente la vida del paciente. Por esta razón, el conocimiento de su funcionamiento, componentes, pruebas de seguridad y mantenimiento es fundamental para el ingeniero biomédico.
 
+En esta práctica se realizó el estudio de la máquina de anestesia WATO EX-20 / EX-35, analizando sus subsistemas, flujo de gases, modos ventilatorios, pruebas de funcionamiento, alarmas críticas y posibles fallas operativas. Además, se desarrolló una guía de verificación preoperatoria y un análisis técnico enfocado en seguridad clínica y gestión del riesgo biomédico.
 
-#  PARTE A
+---
 
-## 1. Tipos de anestesia
-En la práctica clínica existen tres tipos principales de anestesia. La anestesia general es aquella en la que el paciente pierde completamente la conciencia, lo que implica que no percibe dolor ni tiene memoria del procedimiento. Esta se administra mediante gases anestésicos o fármacos intravenosos y generalmente requiere ventilación mecánica.
+# Tabla de Contenido
 
-La anestesia regional consiste en bloquear la sensibilidad de una región específica del cuerpo, como ocurre en procedimientos donde se aplica anestesia epidural o raquídea. En este caso, el paciente puede permanecer consciente, pero sin dolor en la zona intervenida.
+1. ¿Qué es una máquina de anestesia?
+2. Clasificación del equipo
+3. Normatividad aplicable
+4. Tipos de anestesia
+5. Gases utilizados
+6. Sistemas principales
+7. Componentes principales
+8. Modos ventilatorios
+9. Funcionamiento general
+10. Alarmas críticas
+11. Pruebas de funcionamiento
+12. Checklist pre-anestesia
+13. Procedimiento de encendido
+14. Procedimiento ante falla
+15. Fallas comunes
+16. Tecnologías modernas
+17. Análisis de riesgos
+18. Conclusiones
+19. Referencias bibliográficas
 
-Finalmente, la anestesia local se utiliza en procedimientos menores y bloquea únicamente una pequeña área del cuerpo, permitiendo que el paciente permanezca completamente consciente.
+---
 
+# 1. ¿Qué es una máquina de anestesia?
 
+La máquina de anestesia es un sistema electromédico diseñado para:
 
-## 2. Gases utilizados en la máquina
-La máquina de anestesia trabaja principalmente con oxígeno (O₂), óxido nitroso (N₂O) y aire medicinal. El oxígeno es esencial para la respiración celular del paciente y debe suministrarse de manera continua. El óxido nitroso actúa como agente anestésico, mientras que el aire medicinal se utiliza para ajustar la concentración de oxígeno en la mezcla.
+- Administrar gases medicinales y anestésicos.
+- Mantener ventilación mecánica.
+- Monitorear variables respiratorias.
+- Controlar la concentración de oxígeno y agentes volátiles.
+- Eliminar gases residuales del quirófano.
 
-Estos gases pueden ingresar a la máquina a través de sistemas de alta presión como cilindros o mediante sistemas centrales hospitalarios. Una vez dentro del equipo, pasan por reguladores de presión y válvulas de seguridad que garantizan un suministro adecuado y seguro.
+El equipo permite mantener al paciente en un estado de anestesia segura durante una cirugía, garantizando tres efectos fundamentales:
 
+- Hipnosis (pérdida de conciencia)
+- Analgesia (ausencia de dolor)
+- Relajación muscular
 
+Actualmente las estaciones de anestesia modernas integran ventilador mecánico, monitores multiparámetro, módulos de análisis de gases y sistemas electrónicos de seguridad.
 
-## 3. Sistema de respiración
-El sistema de respiración es el encargado de permitir el intercambio de gases entre la máquina y el paciente. Está compuesto por válvulas, tubos, sensores de flujo y presión, y el absorbedor de dióxido de carbono.
+---
 
-Su función principal es suministrar oxígeno y anestesia al paciente, así como eliminar el dióxido de carbono producido durante la respiración. El absorbedor de CO₂ permite reutilizar los gases al eliminar este compuesto del circuito.
+# 2. Clasificación del equipo
 
-Algunas partes del sistema, como los tubos y ciertas válvulas, pueden ser esterilizadas mediante autoclave, lo que ayuda a prevenir infecciones.
+Desde el punto de vista regulatorio y biomédico, la máquina de anestesia se clasifica como:
 
+- Equipo electromédico de soporte vital.
+- Clase IIb de riesgo.
+- Equipo crítico para atención quirúrgica y cuidados perioperatorios.
 
+Debido a su criticidad, debe cumplir estrictamente normas de seguridad eléctrica, neumática y funcional.
 
-## 4. Modos del ventilador
-El ventilador de la máquina de anestesia cuenta con diferentes modos de operación. Entre los más importantes se encuentra el modo de ventilación controlada por volumen (VCV), en el cual se establece un volumen fijo de aire en cada respiración.
+---
 
-También existe el modo de ventilación controlada por presión (PCV), donde se controla la presión máxima aplicada durante la inspiración. Además, el sistema cuenta con modo manual y modo de espera.
+# 3. Normatividad aplicable
 
-La pausa inspiratoria se puede activar en los modos controlados, mejorando la distribución del gas en los pulmones.
+## Normas internacionales
 
+### ISO 80601-2-13:2022
 
+Norma específica para estaciones de trabajo de anestesia. Define requisitos esenciales de:
 
-#  PARTE B
+- Seguridad del paciente.
+- Precisión en administración de gases.
+- Alarmas críticas.
+- Ventilación anestésica.
+- Desempeño esencial.
 
-## 1. Componentes principales
+### IEC 60601-1
 
-El vaporizador es el componente encargado de convertir el anestésico líquido en vapor y mezclarlo con los gases que se administran al paciente. Su funcionamiento es preciso para garantizar concentraciones seguras.
+Norma general para seguridad eléctrica de equipos electromédicos.
 
-La válvula APL permite controlar la presión dentro del sistema respiratorio, evitando que esta alcance niveles peligrosos. Es especialmente importante durante la ventilación manual.
+Evalúa:
 
-El absorbedor de CO₂ elimina el dióxido de carbono del aire exhalado, permitiendo que los gases sean reutilizados dentro del sistema respiratorio.
+- Corrientes de fuga.
+- Protección contra choques eléctricos.
+- Compatibilidad electromagnética.
+- Aislamiento eléctrico.
 
-El fuelle o bellows es el componente que genera la ventilación mecánica, permitiendo el movimiento del aire hacia y desde los pulmones del paciente.
+## Normatividad colombiana
 
+### INVIMA
 
+Entidad encargada de la vigilancia sanitaria y tecnovigilancia de dispositivos médicos en Colombia.
 
-## 2. Mensaje “batería en uso”
-Este mensaje indica que la máquina está funcionando con su batería interna debido a una falla en la alimentación eléctrica. En este caso, se debe verificar la conexión a la red eléctrica, pero no se debe desconectar al paciente.
+### Resolución 3100 de 2019
 
+Establece condiciones de habilitación para servicios de salud incluyendo:
 
+- Gestión tecnológica.
+- Mantenimiento biomédico.
+- Seguridad del paciente.
+- Protocolos de verificación.
 
-## 3. Reemplazo del absorbedor de CO₂
-El absorbedor debe cambiarse cuando el material se satura, lo cual suele evidenciarse mediante un cambio de color o una disminución en su eficiencia. La frecuencia depende del uso del equipo.
+---
 
+# 4. Tipos de anestesia
 
+## Anestesia general
 
-## 4. Verificación de fugas
-La prueba de fugas consiste en presurizar el sistema y observar si la presión se mantiene constante. Si la presión disminuye, indica la presencia de una fuga, lo cual puede afectar el suministro de gases.
+Produce pérdida total de conciencia y sensibilidad. El paciente requiere soporte ventilatorio y monitoreo continuo.
 
+Se administra mediante:
 
+- Agentes inhalados.
+- Medicamentos intravenosos.
 
-## 5. Sensor de oxígeno
-El sensor de oxígeno permite medir la concentración de O₂ en la mezcla de gases. Su ausencia representa un riesgo, ya que no se puede garantizar un suministro adecuado de oxígeno al paciente.
+## Anestesia regional
 
+Bloquea la sensibilidad de una región específica del cuerpo.
 
+Ejemplos:
 
-## 6. Sistema de presión negativa
-Este sistema se encarga de evacuar los gases residuales del sistema, evitando que se acumulen en el ambiente del quirófano y protegiendo al personal médico.
+- Epidural.
+- Raquídea.
 
+## Anestesia local
 
+Bloquea una pequeña zona del cuerpo en procedimientos menores.
 
-#  PARTE C
+---
 
-## Procedimiento realizado
-Durante la práctica se identificaron los componentes principales de la máquina de anestesia y se revisó el manual de servicio para comprender su funcionamiento. Posteriormente, se analizaron los subsistemas del equipo y se realizaron pruebas de funcionamiento, como la prueba de fugas y la verificación de ventilación.
+# 5. Gases utilizados en la máquina
 
-Finalmente, se identificaron posibles fallas y se documentó toda la información en este repositorio.
+La máquina trabaja principalmente con:
 
+| Gas | Función |
+|------|------|
+| Oxígeno (O₂) | Mantener oxigenación |
+| Óxido nitroso (N₂O) | Agente anestésico |
+| Aire medicinal | Ajustar mezcla respiratoria |
 
+Los gases pueden provenir de:
 
-#  FUNCIONAMIENTO GENERAL
-El funcionamiento de la máquina inicia con la entrada de gases desde fuentes externas. Estos gases pasan por reguladores de presión, se mezclan en proporciones controladas y atraviesan el vaporizador, donde se añade el anestésico.
+- Red hospitalaria central.
+- Cilindros de respaldo.
 
-Posteriormente, la mezcla llega al sistema respiratorio y es suministrada al paciente mediante el ventilador. El gas exhalado es procesado para eliminar el dióxido de carbono y puede ser reutilizado dentro del sistema.
+## Presiones típicas
 
+- Red hospitalaria: 40–60 PSI.
+- Cilindro de O₂ lleno: aproximadamente 2200 PSI.
 
+Los reguladores reducen la presión alta a niveles seguros para el sistema respiratorio.
 
-#  PRUEBAS DE FUNCIONAMIENTO
-Las pruebas de funcionamiento permiten verificar que el equipo opere correctamente. La prueba de fugas detecta pérdidas de presión en el sistema, mientras que la prueba de ventilación evalúa el volumen y la presión suministrados al paciente.
+---
 
+# 6. Sistemas principales
 
+## Sistema de alta presión
 
-#  FALLAS COMUNES
-Entre las fallas más comunes se encuentran las fugas en el circuito neumático, los errores en sensores y los problemas en válvulas. Estas fallas pueden ser causadas por desgaste, conexiones defectuosas o falta de mantenimiento.
+Incluye:
 
+- Cilindros.
+- Reguladores.
+- Manómetros.
+
+Reduce la presión de almacenamiento hacia niveles utilizables.
+
+## Sistema de presión intermedia
+
+Distribuye los gases hacia:
+
+- Flujómetros.
+- Vaporizadores.
+- Sistemas de seguridad.
+
+## Sistema de baja presión
+
+Zona donde se mezclan los gases antes de llegar al paciente.
+
+Es una de las áreas más sensibles a fugas.
+
+---
+
+# 7. Componentes principales
+
+## Vaporizadores
+
+Transforman anestésicos líquidos en vapor y controlan la concentración administrada.
+
+Ejemplos:
+
+- Sevoflurano.
+- Isoflurano.
+- Desflurano.
+
+### Riesgos asociados
+
+- Sobredosis anestésica.
+- Concentraciones erróneas.
+- Despertar intraoperatorio.
+
+---
+
+## Flujómetros
+
+Controlan el flujo de gases medicinales.
+
+Pueden ser:
+
+- Mecánicos.
+- Electrónicos.
+
+Muchos equipos modernos incorporan sistemas proporcionales que garantizan una concentración mínima de oxígeno.
+
+---
+
+## Válvula APL
+
+La válvula de presión ajustable limita la presión dentro del circuito respiratorio durante ventilación manual.
+
+### Riesgo crítico
+
+Si queda completamente cerrada puede producir:
+
+- Barotrauma.
+- Sobrepresión pulmonar.
+
+---
+
+## Absorbedor de CO₂
+
+Contiene cal sodada que elimina el dióxido de carbono del gas espirado.
+
+### Indicadores de agotamiento
+
+- Cambio de color a violeta.
+- Disminución de eficiencia.
+- Elevación de ETCO₂.
+
+### Riesgos
+
+- Hipercapnia.
+- Reinhalación de CO₂.
+- Aumento de temperatura del circuito.
+
+---
+
+## Ventilador mecánico
+
+Permite sustituir o asistir la respiración del paciente.
+
+Controla:
+
+- Volumen tidal.
+- Frecuencia respiratoria.
+- Presión inspiratoria.
+- PEEP.
+
+---
+
+## Sistema scavenging
+
+Sistema de evacuación de gases anestésicos residuales.
+
+Protege al personal médico de exposición crónica a agentes anestésicos.
+
+---
+
+# 8. Modos ventilatorios
+
+## VCV – Ventilación controlada por volumen
+
+Se garantiza un volumen tidal fijo.
+
+### Ventajas
+
+- Ventilación estable.
+- Control preciso del volumen.
+
+### Desventaja
+
+La presión puede aumentar peligrosamente si disminuye la distensibilidad pulmonar.
+
+---
+
+## PCV – Ventilación controlada por presión
+
+Se establece una presión máxima inspiratoria.
+
+### Ventajas
+
+- Menor riesgo de barotrauma.
+- Muy útil en pacientes pediátricos.
+
+### Desventaja
+
+El volumen tidal puede variar.
+
+---
+
+## SIMV + Presión soporte
+
+Permite respiraciones espontáneas asistidas.
+
+Muy utilizado durante el destete ventilatorio.
+
+---
+
+## VCV-VG
+
+Modo híbrido donde el sistema ajusta presión automáticamente para garantizar el volumen programado.
+
+---
+
+# 9. Funcionamiento general
+
+El funcionamiento inicia con la entrada de gases medicinales desde la red hospitalaria o cilindros.
+
+Posteriormente:
+
+1. Los reguladores reducen presión.
+2. Los flujómetros ajustan caudal.
+3. Los vaporizadores añaden anestésico volátil.
+4. La mezcla llega al circuito respiratorio.
+5. El ventilador suministra el gas al paciente.
+6. El gas espirado pasa al absorbedor de CO₂.
+7. El sistema scavenging elimina gases residuales.
+
+---
+
+# 10. Alarmas críticas
+
+| Alarma | Significado | Riesgo |
+|------|------|------|
+| Presión alta | Obstrucción o sobrepresión | Barotrauma |
+| Presión baja | Fuga o desconexión | Hipoventilación |
+| FiO₂ baja | Oxígeno insuficiente | Hipoxia |
+| Apnea | Paciente dejó de respirar | Paro respiratorio |
+| Desconexión | Circuito desconectado | Pérdida ventilatoria |
+| Falla eléctrica | Equipo funcionando con batería | Suspensión del soporte |
+
+---
+
+# 11. Pruebas de funcionamiento
+
+## Prueba de fugas
+
+Consiste en presurizar el sistema y verificar si mantiene presión constante.
+
+Detecta:
+
+- Mangueras defectuosas.
+- Válvulas dañadas.
+- Conexiones sueltas.
+
+---
+
+## Verificación de ventilación
+
+Evalúa:
+
+- Volumen tidal.
+- Presión.
+- Frecuencia respiratoria.
+
+---
+
+## Calibración de sensores
+
+Se verifican:
+
+- Sensor de O₂.
+- Capnografía.
+- Sensores de flujo.
+
+---
+
+# 12. Checklist pre-anestesia
+
+| Paso | Verificación | Importancia biomédica |
+|------|------|------|
+| 1 | Inspección visual | Detectar daños mecánicos |
+| 2 | Energía eléctrica | Confirmar batería |
+| 3 | Presión de gases | Evitar mezclas hipóxicas |
+| 4 | Test de fugas | Detectar pérdidas |
+| 5 | Circuito y válvulas | Evitar reinhalación |
+| 6 | Cal sodada | Prevenir hipercapnia |
+| 7 | Vaporizadores | Garantizar concentración correcta |
+| 8 | O₂ Flush | Verificar flujo rápido |
+| 9 | Alarmas | Confirmar seguridad |
+| 10 | Monitores | Validar sensores |
+| 11 | Scavenging | Evitar contaminación |
+| 12 | Pulmón de prueba | Verificación integral |
+
+---
+
+# 13. Procedimiento de encendido
+
+1. Conectar red eléctrica y gases.
+2. Encender el equipo.
+3. Esperar autotest.
+4. Calibrar sensores.
+5. Configurar ventilación y alarmas.
+6. Realizar prueba de fugas.
+7. Verificar pulmón de prueba.
+
+---
+
+# 14. Procedimiento ante falla súbita
+
+1. Pasar a ventilación manual.
+2. Administrar FiO₂ al 100%.
+3. Revisar conexiones eléctricas y neumáticas.
+4. Verificar vaporizadores.
+5. Reiniciar equipo si es seguro.
+6. Cambiar de máquina si la falla continúa.
+
+---
+
+# 15. Fallas comunes
+
+## Fugas neumáticas
+
+Pueden presentarse en:
+
+- Circuito respiratorio.
+- Canister.
+- Mangueras.
+- Válvulas.
+
+### Consecuencias
+
+- Hipoventilación.
+- Pérdida de anestesia.
+- Contaminación ambiental.
+
+---
+
+## Falla del sensor de oxígeno
+
+Impide verificar concentración real de O₂.
+
+### Riesgo
+
+Hipoxia inadvertida.
+
+---
+
+## Agotamiento de cal sodada
+
+Produce:
+
+- Reinhalación de CO₂.
+- Hipercapnia.
+- Alteraciones hemodinámicas.
+
+---
+
+## Falla eléctrica
+
+La máquina pasa a batería interna.
+
+### Riesgo
+
+Pérdida de ventilación mecánica.
+
+---
+
+## Fallas de vaporizador
+
+Pueden generar:
+
+- Sobredosis anestésica.
+- Concentraciones insuficientes.
+- Despertar intraoperatorio.
+
+---
+
+# 16. Tecnologías modernas
+
+Las estaciones modernas incluyen:
+
+- Sistemas de bajo flujo.
+- Monitoreo de consumo anestésico.
+- Capnografía avanzada.
+- Integración con historia clínica electrónica.
+- Alarmas inteligentes.
+- Sensores digitales de flujo y presión.
+
+Estas tecnologías mejoran:
+
+- Seguridad.
+- Precisión.
+- Reducción de consumo de halogenados.
+- Trazabilidad clínica.
+
+---
+
+# 17. Análisis de riesgos biomédicos
+
+| Riesgo | Probabilidad | Severidad | Acción preventiva |
+|------|------|------|------|
+| Tornillo suelto | Baja | Catastrófica | Inspección mecánica |
+| Fuga neumática | Media | Alta | Test de fugas diario |
+| Falla eléctrica | Baja | Alta | Verificación batería |
+| Sensor O₂ dañado | Media | Alta | Calibración periódica |
+| Cal sodada agotada | Alta | Media | Cambio programado |
+
+---
+
+# 18. Conclusiones
+
+La máquina de anestesia es un sistema electromédico complejo y crítico para la seguridad del paciente quirúrgico. Su correcto funcionamiento depende de la interacción adecuada entre sistemas neumáticos, eléctricos, electrónicos y de monitoreo.
+
+Desde el enfoque de ingeniería biomédica, es fundamental comprender:
+
+- El flujo de gases.
+- Los sistemas de seguridad.
+- Los modos ventilatorios.
+- Las pruebas operativas.
+- Las fallas más comunes.
+
+Además, la aplicación rigurosa de protocolos de verificación y mantenimiento preventivo reduce significativamente riesgos clínicos y mejora la seguridad perioperatoria.
+
+La práctica permitió identificar los componentes principales de la estación de anestesia WATO EX-20 / EX-35, comprender su funcionamiento y analizar procedimientos esenciales para garantizar una operación segura y eficiente.
+
+---
+
+# 19. Referencias bibliográficas
+
+1. International Organization for Standardization. (2022). *ISO 80601-2-13:2022 Medical electrical equipment — Particular requirements for basic safety and essential performance of an anaesthetic workstation*. https://www.iso.org/standard/84020.html
+
+2. International Electrotechnical Commission. (2020). *IEC 60601-1 Medical electrical equipment – General requirements for basic safety and essential performance*. https://webstore.iec.ch/publication/2612
+
+3. Ministerio de Salud y Protección Social de Colombia. (2019). *Resolución 3100 de 2019*. https://www.minsalud.gov.co/Normatividad_Nuevo/Resolución%20No.%203100%20de%202019.pdf
+
+4. INVIMA. *Tecnovigilancia de dispositivos médicos*. https://www.invima.gov.co/tecnovigilancia
+
+5. American Society of Anesthesiologists (ASA). *Anesthesia Machine Checkout Recommendations*. https://www.asahq.org/standards-and-guidelines
+
+6. Anesthesia Patient Safety Foundation (APSF). *Anesthesia Machine Safety Alerts*. https://www.apsf.org/
+
+7. GE Healthcare. *Carestation Anesthesia Delivery Systems*. https://www.gehealthcare.com/products/anesthesia-delivery
+
+8. Mindray. *WATO EX-20 / EX-35 Service Manual*. https://www.mindray.com
+
+9. Miller, R. D. (2020). *Miller’s Anesthesia* (9th ed.). Elsevier. https://www.elsevier.com/books/millers-anesthesia/gropper/978-0-323-59604-6
+
+10. Dorsch, J. A., & Dorsch, S. E. (2014). *Understanding Anesthesia Equipment* (5th ed.). Wolters Kluwer. https://shop.lww.com/Understanding-Anesthesia-Equipment/p/9781451115684
 
