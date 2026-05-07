@@ -135,6 +135,30 @@ La Resolución 3100 de 2019 establece las condiciones de habilitación para serv
 
 El cumplimiento de estas normas permite garantizar seguridad del paciente, continuidad operativa y calidad en la atención quirúrgica.
 
+## Guía de uso rápido de la máquina de anestesia WATO EX-20
+
+Durante la práctica también se revisó la guía de uso rápido y verificación preoperatoria de la máquina de anestesia WATO EX-20. Este documento funciona como una ayuda visual para el personal clínico y biomédico, permitiendo realizar de manera ordenada las verificaciones básicas antes de utilizar el equipo en un procedimiento quirúrgico.
+
+La guía incluye recomendaciones relacionadas con:
+- Encendido correcto del equipo.
+- Verificación de conexiones eléctricas.
+- Revisión de suministro de gases.
+- Comprobación de alarmas.
+- Verificación del sistema respiratorio.
+- Revisión de fugas.
+- Confirmación del correcto funcionamiento de vaporizadores y ventilador.
+
+Además, esta lista de chequeo permite disminuir riesgos clínicos asociados a fallas operativas, mezclas hipóxicas, problemas de ventilación o errores en la administración anestésica. Desde el punto de vista biomédico, estas verificaciones son fundamentales debido a que la máquina de anestesia es un equipo de soporte vital y cualquier falla podría comprometer directamente la seguridad del paciente.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2130bd1a-c312-437e-a30e-096c80ba0770" height="260"/>
+  <img src="https://github.com/user-attachments/assets/0899c69f-3dc0-4e30-b843-f5a3b9bb5981" height="260"/>
+</p>
+
+<p align="center">
+  <em>Figura. Guía rápida y lista de verificación preoperatoria de la máquina de anestesia WATO EX-20. Fuente: práctica de laboratorio.</em>
+</p>
+
 
 # PARTE A
 
