@@ -279,7 +279,7 @@ Entre las partes que comúnmente pueden esterilizarse mediante autoclave se encu
 </p>
 
 <p align="center">
-  <em>Figura 2. Componentes reutilizables del circuito respiratorio que pueden esterilizarse mediante autoclave.</em>
+  <em>Figura 2. Componentes reutilizables del circuito respiratorio que pueden esterilizarse mediante autoclave (Imagen recuperada de internet).</em>
 </p>
 
 Sin embargo, no todos los componentes pueden ser autoclavados como los sensores electrónicos, módulos de medición y algunas piezas plásticas sensibles al calor requieren métodos de desinfección diferentes según las recomendaciones del fabricante y el manual de servicio del equipo.
