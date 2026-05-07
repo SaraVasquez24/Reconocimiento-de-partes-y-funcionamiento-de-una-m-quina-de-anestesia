@@ -116,20 +116,20 @@ Durante los procedimientos quirúrgicos existen cuatro tipos principales de anes
 
 La anestesia general produce una pérdida completa y reversible de la consciencia, en esta el paciente permanece dormido, sin dolor y sin percepción del entorno durante toda la cirugía.
 
-## Características principales:
+#### Características principales:
 - Induce inconsciencia total.
 - El paciente no siente dolor ni recuerda el procedimiento.
 - Generalmente requiere soporte de la respiración mediante ventilación mecánica.
 - Se administra por vía intravenosa, inhalatoria o combinada.
 
-## Uso común:
+#### Uso común:
 Se emplea en:
 - Cirugías abdominales.
 - Cirugías cardíacas.
 - Neurocirugías.
 - Procedimientos largos o altamente invasivos.
 
-Equipos como la máquina de anestesia WATO EX-20 están diseñados principalmente para administrar anestesia general mediante gases anestésicos inhalados y control ventilatorio.
+Equipos como la máquina de anestesia WATO EX-20 están diseñados para administrar anestesia general de manera segura mediante el suministro controlado de gases anestésicos inhalados y soporte ventilatorio. Este equipo mezcla oxígeno y agentes anestésicos como sevoflurano o isoflurano en concentraciones precisas, permitiendo mantener al paciente inconsciente y sin dolor durante la cirugía, además incorpora un ventilador mecánico que ayuda a controlar la respiración del paciente, junto con sistemas de monitoreo y alarmas que supervisan parámetros como presión respiratoria, concentración de oxígeno y posibles fugas de gas, garantizando así la seguridad durante el procedimiento quirúrgico.
 
 
 ### Anestesia regional
@@ -156,7 +156,7 @@ La anestesia regional bloquea la sensibilidad y el dolor en una región específ
 - Recuperación más rápida.
 - Menor consumo de anestésicos generales.
 
----
+Aunque la máquina de anestesia WATO EX-20 está diseñada principalmente para anestesia general, durante una anestesia regional puede utilizarse como apoyo para administrar oxígeno suplementario y sedación controlada al paciente, en estos casos el bloqueo nervioso es realizado por el anestesiólogo mediante la inyección del anestésico local cerca de nervios específicos o de la médula espinal, mientras la máquina monitorea la respiración y mantiene disponible soporte ventilatorio en caso de ser necesario durante el procedimiento quirúrgico.
 
 # 3. Anestesia local
 
