@@ -304,7 +304,7 @@ También se visualizan alarmas activas y el estado operativo del equipo.
 </p>
 
 <p align="center">
-  <em>Figura 1. Pantalla principal del ventilador de la máquina WATO EX-20.</em>
+  <em>Figura 1. Pantalla principal del ventilador de la máquina WATO EX-20 (Imagen de elaboración propia).</em>
 </p>
 
 
@@ -328,7 +328,7 @@ La función de pausa inspiratoria puede activarse dentro de este submenú, ya qu
 </p>
 
 <p align="center">
-  <em>Figura 2. Submenú “Modo Vent” para selección del modo ventilatorio.</em>
+  <em>Figura 2. Submenú “Modo Vent” para selección del modo ventilatorio (Imagen de elaboración propia).</em>
 </p>
 
 ### Ajuste de Alarmas
@@ -353,7 +353,7 @@ Estas alarmas ayudan a proteger al paciente durante la anestesia y permiten dete
 </p>
 
 <p align="center">
-  <em>Figura 3. Submenú de ajuste de alarmas respiratorias.</em>
+  <em>Figura 3. Submenú de ajuste de alarmas respiratorias (Imagen de elaboración propia).</em>
 </p>
 
 ### Ajuste Usuario
@@ -370,7 +370,7 @@ Este menú facilita la personalización de la operación del equipo según las n
 </p>
 
 <p align="center">
-  <em>Figura 4. Submenú de configuración de usuario.</em>
+  <em>Figura 4. Submenú de configuración de usuario (Imagen de elaboración propia).</em>
 </p>
 
 ### Mantenimiento
@@ -391,7 +391,7 @@ Estas pruebas permiten asegurar que la máquina funcione correctamente antes de 
 </p>
 
 <p align="center">
-  <em>Figura 5. Submenú de mantenimiento y pruebas del ventilador.</em>
+  <em>Figura 5. Submenú de mantenimiento y pruebas del ventilador (Imagen de elaboración propia).</em>
 </p>
 
 ## PARTE B
@@ -410,7 +410,7 @@ Su función principal es garantizar que la concentración del anestésico inhala
 </p>
 
 <p align="center">
-  <em>Figura. Vaporizador de la máquina de anestesia WATO EX-20.</em>
+  <em>Figura. Vaporizador de la máquina de anestesia WATO EX-20 (Imagen de elaboración propia).</em>
 </p>
 
 
@@ -425,7 +425,7 @@ Su función consiste en controlar la presión dentro del circuito respiratorio p
 </p>
 
 <p align="center">
-  <em>Figura. Válvula APL de la máquina de anestesia WATO EX-20.</em>
+  <em>Figura. Válvula APL de la máquina de anestesia WATO EX-20 (Imagen de elaboración propia).</em>
 </p>
 
 #### c. Recipiente absorbente de CO₂
@@ -439,7 +439,7 @@ Este componente se ubica generalmente en la parte frontal inferior del sistema r
 </p>
 
 <p align="center">
-  <em>Figura. Recipiente absorbente de CO₂ (canister) de la máquina de anestesia WATO EX-20.</em>
+  <em>Figura. Recipiente absorbente de CO₂ (canister) de la máquina de anestesia WATO EX-20 (Imagen de elaboración propia).</em>
 </p>
 
 #### d. Fuelle
@@ -453,7 +453,7 @@ Su función principal es generar la ventilación mecánica controlada durante la
 </p>
 
 <p align="center">
-  <em>Figura. Fuelle del ventilador mecánico de la máquina de anestesia WATO EX-20.</em>
+  <em>Figura. Fuelle del ventilador mecánico de la máquina de anestesia WATO EX-20 (Imagen de elaboración propia).</em>
 </p>
 
 
@@ -484,7 +484,7 @@ Desde el punto de vista biomédico, el reemplazo periódico del absorbedor forma
 </p>
 
 <p align="center">
-  <em>Figura. Cambio de color de la cal sodada indicando saturación del absorbedor de CO₂.</em>
+  <em>Figura. Cambio de color de la cal sodada indicando saturación del absorbedor de CO₂ (imagen recuperada de internet).</em>
 </p>
 
 ### 4. Procedimiento para verificar si hay fuga en el cilindro de alta presión
@@ -502,7 +502,7 @@ Esta prueba es muy importante debido a que el sistema de alta presión constituy
 </p>
 
 <p align="center">
-  <em>Figura. sistema de alta presión de la máquina de anestesia.</em>
+  <em>Figura. sistema de alta presión de la máquina de anestesia (Imagen de elaboración propia).</em>
 </p>
 
 ## 5. Influencia del sensor de O₂ en la prueba del sistema de control de flujo
