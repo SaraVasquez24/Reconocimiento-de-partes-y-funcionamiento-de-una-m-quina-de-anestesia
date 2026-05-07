@@ -134,8 +134,8 @@ La guía incluye recomendaciones relacionadas con:
 Además, esta lista de chequeo permite disminuir riesgos clínicos asociados a fallas operativas, mezclas hipóxicas, problemas de ventilación o errores en la administración anestésica. Desde el punto de vista biomédico, estas verificaciones son fundamentales debido a que la máquina de anestesia es un equipo de soporte vital y cualquier falla podría comprometer directamente la seguridad del paciente.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2130bd1a-c312-437e-a30e-096c80ba0770" height="360"/>
-  <img src="https://github.com/user-attachments/assets/0899c69f-3dc0-4e30-b843-f5a3b9bb5981" height="360"/>
+  <img src="https://github.com/user-attachments/assets/2130bd1a-c312-437e-a30e-096c80ba0770" height="460"/>
+  <img src="https://github.com/user-attachments/assets/0899c69f-3dc0-4e30-b843-f5a3b9bb5981" height="460"/>
 </p>
 
 <p align="center">
@@ -264,8 +264,8 @@ El sistema de respiración de una máquina de anestesia es el conjunto de compon
 Este sistema está compuesto por elementos como el circuito respiratorio, mangueras inspiratorias y espiratorias, válvulas unidireccionales, absorbente de CO₂, bolsa reservorio y conexiones hacia el ventilador mecánico. Durante el procedimiento quirúrgico, los gases circulan continuamente a través de este circuito, permitiendo controlar la respiración del paciente de manera segura y eficiente.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e350e591-a827-4ee4-a876-7e5650d5e806" height="230" />
-  <img src="https://github.com/user-attachments/assets/f24f13e8-5e5a-4ff1-96c2-cc800db6872a" height="230" />
+  <img src="https://github.com/user-attachments/assets/e350e591-a827-4ee4-a876-7e5650d5e806" height="430" />
+  <img src="https://github.com/user-attachments/assets/f24f13e8-5e5a-4ff1-96c2-cc800db6872a" height="430" />
 </p>
 
 <p align="center">
@@ -281,7 +281,7 @@ Debido al contacto directo con el flujo respiratorio del paciente, varias partes
 Entre las partes que comúnmente pueden esterilizarse mediante autoclave se encuentran las mangueras respiratorias reutilizables, la bolsa reservorio, algunas válvulas respiratorias, conectores y ciertos componentes desmontables del circuito respiratorio fabricados con materiales resistentes a altas temperaturas y presión.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9eae5a39-093f-4c76-89e1-cc0214400cc0" height="240" />
+  <img src="https://github.com/user-attachments/assets/9eae5a39-093f-4c76-89e1-cc0214400cc0" height="440" />
 </p>
 
 <p align="center">
@@ -306,7 +306,7 @@ La pantalla principal muestra el estado general del ventilador y parámetros res
 También se visualizan alarmas activas y el estado operativo del equipo.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f7901363-ba5c-4df5-a3e0-a990f403ed24" height="260"/>
+  <img src="https://github.com/user-attachments/assets/f7901363-ba5c-4df5-a3e0-a990f403ed24" height="460"/>
 </p>
 
 <p align="center">
@@ -330,7 +330,7 @@ En este menú también se ajustan parámetros ventilatorios como:
 La función de pausa inspiratoria puede activarse dentro de este submenú, ya que forma parte de los parámetros respiratorios avanzados de ventilación.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/04c0d46a-2450-4b3b-b398-70ef695fca91" height="220"/>
+  <img src="https://github.com/user-attachments/assets/04c0d46a-2450-4b3b-b398-70ef695fca91" height="420"/>
 </p>
 
 <p align="center">
@@ -355,7 +355,7 @@ Entre las alarmas configurables observadas se encuentran:
 Estas alarmas ayudan a proteger al paciente durante la anestesia y permiten detectar fugas, desconexiones o alteraciones ventilatorias.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c362dfdd-a377-44b3-a523-a56f0f3663fa" height="240"/>
+  <img src="https://github.com/user-attachments/assets/c362dfdd-a377-44b3-a523-a56f0f3663fa" height="440"/>
 </p>
 
 <p align="center">
@@ -372,7 +372,7 @@ El menú ajuste usuario corresponde a configuraciones generales del usuario y de
 Este menú facilita la personalización de la operación del equipo según las necesidades clínicas.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/66989075-f0bb-4cf9-9be7-6e1294e21778" height="230"/>
+  <img src="https://github.com/user-attachments/assets/66989075-f0bb-4cf9-9be7-6e1294e21778" height="430"/>
 </p>
 
 <p align="center">
@@ -393,7 +393,7 @@ Entre las opciones observadas se encuentran:
 Estas pruebas permiten asegurar que la máquina funcione correctamente antes de iniciar un procedimiento anestésico.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e143da49-3c41-4d1d-9653-70307ae848a0" height="260"/>
+  <img src="https://github.com/user-attachments/assets/e143da49-3c41-4d1d-9653-70307ae848a0" height="460"/>
 </p>
 
 <p align="center">
@@ -412,7 +412,7 @@ Su función principal es garantizar que la concentración del anestésico inhala
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4c3fe47f-5d94-4fb2-a338-fbb9794b23f4" height="260"/>
+  <img src="https://github.com/user-attachments/assets/4c3fe47f-5d94-4fb2-a338-fbb9794b23f4" height="460"/>
 </p>
 
 <p align="center">
@@ -427,7 +427,7 @@ La válvula APL (Adjustable Pressure Limiting) o válvula limitadora de presión
 Su función consiste en controlar la presión dentro del circuito respiratorio permitiendo la liberación del exceso de gases hacia el sistema de evacuación. De esta manera evita sobrepresiones pulmonares y posibles lesiones como barotrauma. Cuando la válvula se encuentra más cerrada, aumenta la presión dentro del circuito; cuando se abre, facilita la salida de gases.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/27ac3ba6-3841-42b2-b8a9-71ef0e532068" height="260"/>
+  <img src="https://github.com/user-attachments/assets/27ac3ba6-3841-42b2-b8a9-71ef0e532068" height="460"/>
 </p>
 
 <p align="center">
@@ -441,7 +441,7 @@ El recipiente absorbente de CO₂, también llamado canister, contiene cal sodad
 Este componente se ubica generalmente en la parte frontal inferior del sistema respiratorio de la máquina. Su función es evitar la reinhalación de CO₂, permitiendo reutilizar parte de los gases respiratorios y mejorar la eficiencia del sistema anestésico. Cuando la cal sodada se agota, puede observarse un cambio de color que indica la necesidad de reemplazo.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b67653a8-e23b-4fa5-9f43-2d96f2e45f19" height="260"/>
+  <img src="https://github.com/user-attachments/assets/b67653a8-e23b-4fa5-9f43-2d96f2e45f19" height="460"/>
 </p>
 
 <p align="center">
@@ -455,7 +455,7 @@ El fuelle es una parte fundamental del ventilador mecánico de la máquina de an
 Su función principal es generar la ventilación mecánica controlada durante la anestesia general. El movimiento del fuelle permite observar visualmente el ciclo respiratorio del paciente y ayuda a detectar alteraciones como fugas o desconexiones en el circuito respiratorio.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/682cd66c-0391-40e2-946a-6872b8f51b0a" height="260"/>
+  <img src="https://github.com/user-attachments/assets/682cd66c-0391-40e2-946a-6872b8f51b0a" height="460"/>
 </p>
 
 <p align="center">
@@ -486,7 +486,7 @@ En la práctica clínica, el absorbente debe inspeccionarse antes de cada proced
 Desde el punto de vista biomédico, el reemplazo periódico del absorbente forma parte del mantenimiento preventivo de la máquina de anestesia y es fundamental para garantizar seguridad ventilatoria y correcto funcionamiento del sistema respiratorio.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/70d8841e-a43a-4e21-bc71-a9cc3009e806" height="320"/>
+  <img src="https://github.com/user-attachments/assets/70d8841e-a43a-4e21-bc71-a9cc3009e806" height="420"/>
 </p>
 
 <p align="center">
@@ -504,7 +504,7 @@ En algunos casos también puede utilizarse una solución jabonosa sobre las cone
 Esta prueba es muy importante debido a que el sistema de alta presión constituye la fuente de respaldo de oxígeno en caso de falla de la red hospitalaria. Una fuga no detectada podría provocar pérdida del suministro de oxígeno durante un procedimiento quirúrgico y comprometer la seguridad del paciente.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23e0b907-594d-4db0-b8ac-104d3826447f" height="300"/>
+  <img src="https://github.com/user-attachments/assets/23e0b907-594d-4db0-b8ac-104d3826447f" height="400"/>
 </p>
 
 <p align="center">
