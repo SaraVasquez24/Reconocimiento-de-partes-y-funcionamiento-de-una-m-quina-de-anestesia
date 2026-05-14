@@ -10,7 +10,8 @@
   - Normatividad colombiana  
     - INVIMA  
     - Resolución 3100 de 2019  
-- Guía de uso rápido de la máquina WATO EX-20  
+- Guía de uso rápido de la máquina WATO EX-20
+- Bombas de infusión y máquina de anestesia  
 
 ## PARTE A
 
@@ -142,6 +143,18 @@ Además, esta lista de chequeo permite disminuir riesgos clínicos asociados a f
   <em>Figura. Guía rápida y lista de verificación preoperatoria de la máquina de anestesia WATO EX-20 (imagen de elaboración propia).</em>
 </p>
 
+##  Bombas de infusión y máquina de anestesia  
+
+La máquina de anestesia moderna trabaja junto con bombas de infusión para administrar medicamentos intravenosos de manera precisa como propofol, remifentanilo y relajantes musculares, por otra parte la máquina controla la ventilación, el oxígeno y los gases anestésicos.
+
+Las más usadas son las bombas de jeringa, ya que permiten controlar dosis muy pequeñas con alta precisión. 
+(En anestesia esto es importante porque cualquier variación puede afectar la respiración, la presión arterial o la profundidad anestésica del paciente)
+
+También existen sistemas TCI (Target Controlled Infusion), que son bombas inteligentes capaces de calcular automáticamente la dosis según características del paciente como peso y edad; estas bombas ayudan a mantener una anestesia más estable y segura.
+
+En anestesia intravenosa total (TIVA), las bombas tienen un papel principal porque toda la anestesia se administra por vía intravenosa, mientras la máquina continúa ventilando y monitoreando al paciente.
+
+Además, las bombas están conectadas a sistemas de seguridad que detectan obstrucciones, aire en las líneas o falta de medicamento, haciendo que la máquina de anestesia sea más segura y precisa durante los procedimientos quirúrgicos.
 
 # PARTE A
 
